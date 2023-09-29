@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RakkleLike/PawnKinds.xml-->
+              <!-- Rakkle colonist -->
+<RS_Colonist.label>Rakkle colonist</RS_Colonist.label>
+                    <!-- Plural Rakkle colonist -->
+<RS_Colonist.labelPlural>Plural Rakkle colonist</RS_Colonist.labelPlural>
+                  <!-- Male Rakkle colonist -->
+<RS_Colonist.labelMale>Male Rakkle colonist</RS_Colonist.labelMale>
+                        <!-- Male Plural Rakkle colonist -->
+<RS_Colonist.labelMalePlural>Male Plural Rakkle colonist</RS_Colonist.labelMalePlural>
+                    <!-- Female Rakkle colonist -->
+<RS_Colonist.labelFemale>Female Rakkle colonist</RS_Colonist.labelFemale>
+                          <!-- Female Plural Rakkle colonist -->
+<RS_Colonist.labelFemalePlural>Female Plural Rakkle colonist</RS_Colonist.labelFemalePlural>
+              <!-- Rakkle Fugitive -->
+<RS_Fugitive.label>Rakkle Fugitive</RS_Fugitive.label>
+                    <!-- Plural Rakkle Fugitive -->
+<RS_Fugitive.labelPlural>Plural Rakkle Fugitive</RS_Fugitive.labelPlural>
+                  <!-- Male Rakkle Fugitive -->
+<RS_Fugitive.labelMale>Male Rakkle Fugitive</RS_Fugitive.labelMale>
+                        <!-- Male Plural Rakkle Fugitive -->
+<RS_Fugitive.labelMalePlural>Male Plural Rakkle Fugitive</RS_Fugitive.labelMalePlural>
+                    <!-- Female Rakkle Fugitive -->
+<RS_Fugitive.labelFemale>Female Rakkle Fugitive</RS_Fugitive.labelFemale>
+                          <!-- Female Plural Rakkle Fugitive -->
+<RS_Fugitive.labelFemalePlural>Female Plural Rakkle Fugitive</RS_Fugitive.labelFemalePlural>
+                  <!-- Rakkle ShieldSlaves -->
+<CRD_ShieldSlave.label>Rakkle ShieldSlaves</CRD_ShieldSlave.label>
+                        <!-- Plural Rakkle ShieldSlaves -->
+<CRD_ShieldSlave.labelPlural>Plural Rakkle ShieldSlaves</CRD_ShieldSlave.labelPlural>
+                      <!-- Male Rakkle ShieldSlaves -->
+<CRD_ShieldSlave.labelMale>Male Rakkle ShieldSlaves</CRD_ShieldSlave.labelMale>
+                            <!-- Male Plural Rakkle ShieldSlaves -->
+<CRD_ShieldSlave.labelMalePlural>Male Plural Rakkle ShieldSlaves</CRD_ShieldSlave.labelMalePlural>
+                        <!-- Female Rakkle ShieldSlaves -->
+<CRD_ShieldSlave.labelFemale>Female Rakkle ShieldSlaves</CRD_ShieldSlave.labelFemale>
+                              <!-- Female Plural Rakkle ShieldSlaves -->
+<CRD_ShieldSlave.labelFemalePlural>Female Plural Rakkle ShieldSlaves</CRD_ShieldSlave.labelFemalePlural>
+            <!-- cradle goods -->
+<CRD_Goods.label>cradle goods</CRD_Goods.label>
+                  <!-- Plural cradle goods -->
+<CRD_Goods.labelPlural>Plural cradle goods</CRD_Goods.labelPlural>
+                <!-- Male cradle goods -->
+<CRD_Goods.labelMale>Male cradle goods</CRD_Goods.labelMale>
+                      <!-- Male Plural cradle goods -->
+<CRD_Goods.labelMalePlural>Male Plural cradle goods</CRD_Goods.labelMalePlural>
+                  <!-- Female cradle goods -->
+<CRD_Goods.labelFemale>Female cradle goods</CRD_Goods.labelFemale>
+                        <!-- Female Plural cradle goods -->
+<CRD_Goods.labelFemalePlural>Female Plural cradle goods</CRD_Goods.labelFemalePlural>
+                <!-- cradle kidnapper -->
+<CRD_Kidnapper.label>cradle kidnapper</CRD_Kidnapper.label>
+                      <!-- Plural cradle kidnapper -->
+<CRD_Kidnapper.labelPlural>Plural cradle kidnapper</CRD_Kidnapper.labelPlural>
+                    <!-- Male cradle kidnapper -->
+<CRD_Kidnapper.labelMale>Male cradle kidnapper</CRD_Kidnapper.labelMale>
+                          <!-- Male Plural cradle kidnapper -->
+<CRD_Kidnapper.labelMalePlural>Male Plural cradle kidnapper</CRD_Kidnapper.labelMalePlural>
+                      <!-- Female cradle kidnapper -->
+<CRD_Kidnapper.labelFemale>Female cradle kidnapper</CRD_Kidnapper.labelFemale>
+                            <!-- Female Plural cradle kidnapper -->
+<CRD_Kidnapper.labelFemalePlural>Female Plural cradle kidnapper</CRD_Kidnapper.labelFemalePlural>
+             <!-- cradle gunner -->
+<CRD_Gunner.label>cradle gunner</CRD_Gunner.label>
+                   <!-- Plural cradle gunner -->
+<CRD_Gunner.labelPlural>Plural cradle gunner</CRD_Gunner.labelPlural>
+                 <!-- Male cradle gunner -->
+<CRD_Gunner.labelMale>Male cradle gunner</CRD_Gunner.labelMale>
+                       <!-- Male Plural cradle gunner -->
+<CRD_Gunner.labelMalePlural>Male Plural cradle gunner</CRD_Gunner.labelMalePlural>
+                   <!-- Female cradle gunner -->
+<CRD_Gunner.labelFemale>Female cradle gunner</CRD_Gunner.labelFemale>
+                         <!-- Female Plural cradle gunner -->
+<CRD_Gunner.labelFemalePlural>Female Plural cradle gunner</CRD_Gunner.labelFemalePlural>
+                  <!-- cradle heavy gunner -->
+<CRD_HeavyGunner.label>cradle heavy gunner</CRD_HeavyGunner.label>
+                        <!-- Plural cradle heavy gunner -->
+<CRD_HeavyGunner.labelPlural>Plural cradle heavy gunner</CRD_HeavyGunner.labelPlural>
+                      <!-- Male cradle heavy gunner -->
+<CRD_HeavyGunner.labelMale>Male cradle heavy gunner</CRD_HeavyGunner.labelMale>
+                            <!-- Male Plural cradle heavy gunner -->
+<CRD_HeavyGunner.labelMalePlural>Male Plural cradle heavy gunner</CRD_HeavyGunner.labelMalePlural>
+                        <!-- Female cradle heavy gunner -->
+<CRD_HeavyGunner.labelFemale>Female cradle heavy gunner</CRD_HeavyGunner.labelFemale>
+                              <!-- Female Plural cradle heavy gunner -->
+<CRD_HeavyGunner.labelFemalePlural>Female Plural cradle heavy gunner</CRD_HeavyGunner.labelFemalePlural>
+              <!-- rakkle slasher -->
+<CRD_Slasher.label>rakkle slasher</CRD_Slasher.label>
+                    <!-- Plural rakkle slasher -->
+<CRD_Slasher.labelPlural>Plural rakkle slasher</CRD_Slasher.labelPlural>
+                  <!-- Male rakkle slasher -->
+<CRD_Slasher.labelMale>Male rakkle slasher</CRD_Slasher.labelMale>
+                        <!-- Male Plural rakkle slasher -->
+<CRD_Slasher.labelMalePlural>Male Plural rakkle slasher</CRD_Slasher.labelMalePlural>
+                    <!-- Female rakkle slasher -->
+<CRD_Slasher.labelFemale>Female rakkle slasher</CRD_Slasher.labelFemale>
+                          <!-- Female Plural rakkle slasher -->
+<CRD_Slasher.labelFemalePlural>Female Plural rakkle slasher</CRD_Slasher.labelFemalePlural>
+             <!-- cradle sapper -->
+<CRD_Sapper.label>cradle sapper</CRD_Sapper.label>
+                   <!-- Plural cradle sapper -->
+<CRD_Sapper.labelPlural>Plural cradle sapper</CRD_Sapper.labelPlural>
+                 <!-- Male cradle sapper -->
+<CRD_Sapper.labelMale>Male cradle sapper</CRD_Sapper.labelMale>
+                       <!-- Male Plural cradle sapper -->
+<CRD_Sapper.labelMalePlural>Male Plural cradle sapper</CRD_Sapper.labelMalePlural>
+                   <!-- Female cradle sapper -->
+<CRD_Sapper.labelFemale>Female cradle sapper</CRD_Sapper.labelFemale>
+                         <!-- Female Plural cradle sapper -->
+<CRD_Sapper.labelFemalePlural>Female Plural cradle sapper</CRD_Sapper.labelFemalePlural>
+               <!-- cradle leader -->
+<CradleLeader.label>cradle leader</CradleLeader.label>
+                     <!-- Plural cradle leader -->
+<CradleLeader.labelPlural>Plural cradle leader</CradleLeader.labelPlural>
+                   <!-- Male cradle leader -->
+<CradleLeader.labelMale>Male cradle leader</CradleLeader.labelMale>
+                         <!-- Male Plural cradle leader -->
+<CradleLeader.labelMalePlural>Male Plural cradle leader</CradleLeader.labelMalePlural>
+                     <!-- Female cradle leader -->
+<CradleLeader.labelFemale>Female cradle leader</CradleLeader.labelFemale>
+                           <!-- Female Plural cradle leader -->
+<CradleLeader.labelFemalePlural>Female Plural cradle leader</CradleLeader.labelFemalePlural>
+                   <!-- cradle elite slasher -->
+<CRD_EliteSlasher.label>cradle elite slasher</CRD_EliteSlasher.label>
+                         <!-- Plural cradle elite slasher -->
+<CRD_EliteSlasher.labelPlural>Plural cradle elite slasher</CRD_EliteSlasher.labelPlural>
+                       <!-- Male cradle elite slasher -->
+<CRD_EliteSlasher.labelMale>Male cradle elite slasher</CRD_EliteSlasher.labelMale>
+                             <!-- Male Plural cradle elite slasher -->
+<CRD_EliteSlasher.labelMalePlural>Male Plural cradle elite slasher</CRD_EliteSlasher.labelMalePlural>
+                         <!-- Female cradle elite slasher -->
+<CRD_EliteSlasher.labelFemale>Female cradle elite slasher</CRD_EliteSlasher.labelFemale>
+                               <!-- Female Plural cradle elite slasher -->
+<CRD_EliteSlasher.labelFemalePlural>Female Plural cradle elite slasher</CRD_EliteSlasher.labelFemalePlural>
+                  <!-- cradle elite gunner -->
+<CRD_EliteGunner.label>cradle elite gunner</CRD_EliteGunner.label>
+                        <!-- Plural cradle elite gunner -->
+<CRD_EliteGunner.labelPlural>Plural cradle elite gunner</CRD_EliteGunner.labelPlural>
+                      <!-- Male cradle elite gunner -->
+<CRD_EliteGunner.labelMale>Male cradle elite gunner</CRD_EliteGunner.labelMale>
+                            <!-- Male Plural cradle elite gunner -->
+<CRD_EliteGunner.labelMalePlural>Male Plural cradle elite gunner</CRD_EliteGunner.labelMalePlural>
+                        <!-- Female cradle elite gunner -->
+<CRD_EliteGunner.labelFemale>Female cradle elite gunner</CRD_EliteGunner.labelFemale>
+                              <!-- Female Plural cradle elite gunner -->
+<CRD_EliteGunner.labelFemalePlural>Female Plural cradle elite gunner</CRD_EliteGunner.labelFemalePlural>
+          <!-- Rakkle Free wanderer -->
+<RS_FRUT.label>Rakkle Free wanderer</RS_FRUT.label>
+                <!-- Plural Rakkle Free wanderer -->
+<RS_FRUT.labelPlural>Plural Rakkle Free wanderer</RS_FRUT.labelPlural>
+              <!-- Male Rakkle Free wanderer -->
+<RS_FRUT.labelMale>Male Rakkle Free wanderer</RS_FRUT.labelMale>
+                    <!-- Male Plural Rakkle Free wanderer -->
+<RS_FRUT.labelMalePlural>Male Plural Rakkle Free wanderer</RS_FRUT.labelMalePlural>
+                <!-- Female Rakkle Free wanderer -->
+<RS_FRUT.labelFemale>Female Rakkle Free wanderer</RS_FRUT.labelFemale>
+                      <!-- Female Plural Rakkle Free wanderer -->
+<RS_FRUT.labelFemalePlural>Female Plural Rakkle Free wanderer</RS_FRUT.labelFemalePlural>
+          <!-- Rakkle Free wanderer -->
+<RS_FRUG.label>Rakkle Free wanderer</RS_FRUG.label>
+                <!-- Plural Rakkle Free wanderer -->
+<RS_FRUG.labelPlural>Plural Rakkle Free wanderer</RS_FRUG.labelPlural>
+              <!-- Male Rakkle Free wanderer -->
+<RS_FRUG.labelMale>Male Rakkle Free wanderer</RS_FRUG.labelMale>
+                    <!-- Male Plural Rakkle Free wanderer -->
+<RS_FRUG.labelMalePlural>Male Plural Rakkle Free wanderer</RS_FRUG.labelMalePlural>
+                <!-- Female Rakkle Free wanderer -->
+<RS_FRUG.labelFemale>Female Rakkle Free wanderer</RS_FRUG.labelFemale>
+                      <!-- Female Plural Rakkle Free wanderer -->
+<RS_FRUG.labelFemalePlural>Female Plural Rakkle Free wanderer</RS_FRUG.labelFemalePlural>
+
+</LanguageData>

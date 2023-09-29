@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RakkleLike/GeneralRace.xml-->
+         <!-- Rakkle -->
+<Rakkle.label>Rakkle</Rakkle.label>
+               <!-- Rakkles are reptilian humanoids originally found on a remote planet in the Rim. After their discovery, human colonies rounded them up and genetically altered them to have near-human intelligence, but also decreased aggression and appearances better suited to human tastes. They were also modified to give birth to females more often than males, creating a biological need for species interbreeding.
+
+The newly created Rakkle species were managed by a company known as The Cradle beyond the reaches of the galaxy, while wild Rakkle were hunted and killed to protect the company's interest. Future generations within the facilities were conditioned and raised as slaves and livestock.
+
+ After a series of escapes and revolts on planet after planet, a coalition of freed Rakkle began colonies of their own, resisting capture and invasion to create a new world where Rakkle can live outside the yoke of slavery. Despite The Cradle's best efforts, these settlements continue to grow in size and number. -->
+<Rakkle.description>Rakkles are reptilian humanoids originally found on a remote planet in the Rim. After their discovery, human colonies rounded them up and genetically altered them to have near-human intelligence, but also decreased aggression and appearances better suited to human tastes. They were also modified to give birth to females more often than males, creating a biological need for species interbreeding.\n\nThe newly created Rakkle species were managed by a company known as The Cradle beyond the reaches of the galaxy, while wild Rakkle were hunted and killed to protect the company's interest. Future generations within the facilities were conditioned and raised as slaves and livestock.\n\n After a series of escapes and revolts on planet after planet, a coalition of freed Rakkle began colonies of their own, resisting capture and invasion to create a new world where Rakkle can live outside the yoke of slavery. Despite The Cradle's best efforts, these settlements continue to grow in size and number.</Rakkle.description>
+                                                                     <!-- skin -->
+<Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+                                                                             <!-- RGBA(255, 255, 255, 255) -->
+<Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.0.second.color>RGBA(255, 255, 255, 255)</Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.0.second.color>
+                                                                     <!-- hair -->
+<Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+                                                                             <!-- RGBA(255, 255, 255, 255) -->
+<Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.1.second.color>RGBA(255, 255, 255, 255)</Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.1.second.color>
+                 <!-- left fist -->
+<Rakkle.tools.0.label>left fist</Rakkle.tools.0.label>
+                 <!-- right fist -->
+<Rakkle.tools.1.label>right fist</Rakkle.tools.1.label>
+                 <!-- fangs -->
+<Rakkle.tools.2.label>fangs</Rakkle.tools.2.label>
+                 <!-- snake tail -->
+<Rakkle.tools.3.label>snake tail</Rakkle.tools.3.label>
+                 <!-- CarnivoreAnimalStrict, OvivoreAnimal -->
+<Rakkle.race.foodType>CarnivoreAnimalStrict, OvivoreAnimal</Rakkle.race.foodType>
+
+</LanguageData>

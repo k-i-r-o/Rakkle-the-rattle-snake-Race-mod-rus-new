@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RakkleLike/body/Body.xml-->
+         <!-- Rakkle -->
+<Rakkle.label>Rakkle</Rakkle.label>
+                                <!-- left lung -->
+<Rakkle.corePart.parts.5.customLabel>left lung</Rakkle.corePart.parts.5.customLabel>
+                                <!-- right lung -->
+<Rakkle.corePart.parts.6.customLabel>right lung</Rakkle.corePart.parts.6.customLabel>
+                                                <!-- left eye -->
+<Rakkle.corePart.parts.7.parts.0.parts.1.customLabel>left eye</Rakkle.corePart.parts.7.parts.0.parts.1.customLabel>
+                                                <!-- right eye -->
+<Rakkle.corePart.parts.7.parts.0.parts.2.customLabel>right eye</Rakkle.corePart.parts.7.parts.0.parts.2.customLabel>
+                                                <!-- left ear -->
+<Rakkle.corePart.parts.7.parts.0.parts.3.customLabel>left ear</Rakkle.corePart.parts.7.parts.0.parts.3.customLabel>
+                                                <!-- right ear -->
+<Rakkle.corePart.parts.7.parts.0.parts.4.customLabel>right ear</Rakkle.corePart.parts.7.parts.0.parts.4.customLabel>
+                                                        <!-- fangs -->
+<Rakkle.corePart.parts.7.parts.0.parts.6.parts.1.customLabel>fangs</Rakkle.corePart.parts.7.parts.0.parts.6.parts.1.customLabel>
+                                                                <!-- venom glands -->
+<Rakkle.corePart.parts.7.parts.0.parts.6.parts.1.parts.0.customLabel>venom glands</Rakkle.corePart.parts.7.parts.0.parts.6.parts.1.parts.0.customLabel>
+                                <!-- left shoulder -->
+<Rakkle.corePart.parts.8.customLabel>left shoulder</Rakkle.corePart.parts.8.customLabel>
+                                        <!-- left clavicle -->
+<Rakkle.corePart.parts.8.parts.0.customLabel>left clavicle</Rakkle.corePart.parts.8.parts.0.customLabel>
+                                        <!-- left arm -->
+<Rakkle.corePart.parts.8.parts.1.customLabel>left arm</Rakkle.corePart.parts.8.parts.1.customLabel>
+                                                <!-- left humerus -->
+<Rakkle.corePart.parts.8.parts.1.parts.0.customLabel>left humerus</Rakkle.corePart.parts.8.parts.1.parts.0.customLabel>
+                                                <!-- left radius -->
+<Rakkle.corePart.parts.8.parts.1.parts.1.customLabel>left radius</Rakkle.corePart.parts.8.parts.1.parts.1.customLabel>
+                                                <!-- left hand -->
+<Rakkle.corePart.parts.8.parts.1.parts.2.customLabel>left hand</Rakkle.corePart.parts.8.parts.1.parts.2.customLabel>
+                                                        <!-- left pinky -->
+<Rakkle.corePart.parts.8.parts.1.parts.2.parts.0.customLabel>left pinky</Rakkle.corePart.parts.8.parts.1.parts.2.parts.0.customLabel>
+                                                        <!-- left ring finger -->
+<Rakkle.corePart.parts.8.parts.1.parts.2.parts.1.customLabel>left ring finger</Rakkle.corePart.parts.8.parts.1.parts.2.parts.1.customLabel>
+                                                        <!-- left middle finger -->
+<Rakkle.corePart.parts.8.parts.1.parts.2.parts.2.customLabel>left middle finger</Rakkle.corePart.parts.8.parts.1.parts.2.parts.2.customLabel>
+                                                        <!-- left index finger -->
+<Rakkle.corePart.parts.8.parts.1.parts.2.parts.3.customLabel>left index finger</Rakkle.corePart.parts.8.parts.1.parts.2.parts.3.customLabel>
+                                                        <!-- left thumb -->
+<Rakkle.corePart.parts.8.parts.1.parts.2.parts.4.customLabel>left thumb</Rakkle.corePart.parts.8.parts.1.parts.2.parts.4.customLabel>
+                                <!-- right shoulder -->
+<Rakkle.corePart.parts.9.customLabel>right shoulder</Rakkle.corePart.parts.9.customLabel>
+                                        <!-- right clavicle -->
+<Rakkle.corePart.parts.9.parts.0.customLabel>right clavicle</Rakkle.corePart.parts.9.parts.0.customLabel>
+                                        <!-- right arm -->
+<Rakkle.corePart.parts.9.parts.1.customLabel>right arm</Rakkle.corePart.parts.9.parts.1.customLabel>
+                                                <!-- right humerus -->
+<Rakkle.corePart.parts.9.parts.1.parts.0.customLabel>right humerus</Rakkle.corePart.parts.9.parts.1.parts.0.customLabel>
+                                                <!-- right radius -->
+<Rakkle.corePart.parts.9.parts.1.parts.1.customLabel>right radius</Rakkle.corePart.parts.9.parts.1.parts.1.customLabel>
+                                                <!-- right hand -->
+<Rakkle.corePart.parts.9.parts.1.parts.2.customLabel>right hand</Rakkle.corePart.parts.9.parts.1.parts.2.customLabel>
+                                                        <!-- right pinky -->
+<Rakkle.corePart.parts.9.parts.1.parts.2.parts.0.customLabel>right pinky</Rakkle.corePart.parts.9.parts.1.parts.2.parts.0.customLabel>
+                                                        <!-- right ring finger -->
+<Rakkle.corePart.parts.9.parts.1.parts.2.parts.1.customLabel>right ring finger</Rakkle.corePart.parts.9.parts.1.parts.2.parts.1.customLabel>
+                                                        <!-- right middle finger -->
+<Rakkle.corePart.parts.9.parts.1.parts.2.parts.2.customLabel>right middle finger</Rakkle.corePart.parts.9.parts.1.parts.2.parts.2.customLabel>
+                                                        <!-- right index finger -->
+<Rakkle.corePart.parts.9.parts.1.parts.2.parts.3.customLabel>right index finger</Rakkle.corePart.parts.9.parts.1.parts.2.parts.3.customLabel>
+                                                        <!-- right thumb -->
+<Rakkle.corePart.parts.9.parts.1.parts.2.parts.4.customLabel>right thumb</Rakkle.corePart.parts.9.parts.1.parts.2.parts.4.customLabel>
+                                 <!-- Upper tail -->
+<Rakkle.corePart.parts.11.customLabel>Upper tail</Rakkle.corePart.parts.11.customLabel>
+                                         <!-- left kidney -->
+<Rakkle.corePart.parts.11.parts.1.customLabel>left kidney</Rakkle.corePart.parts.11.parts.1.customLabel>
+                                         <!-- right kidney -->
+<Rakkle.corePart.parts.11.parts.2.customLabel>right kidney</Rakkle.corePart.parts.11.parts.2.customLabel>
+                                         <!-- Upper tailbone -->
+<Rakkle.corePart.parts.11.parts.4.customLabel>Upper tailbone</Rakkle.corePart.parts.11.parts.4.customLabel>
+                                                 <!-- upper bellyscale -->
+<Rakkle.corePart.parts.11.parts.4.parts.0.customLabel>upper bellyscale</Rakkle.corePart.parts.11.parts.4.parts.0.customLabel>
+                                         <!-- Lower tail -->
+<Rakkle.corePart.parts.11.parts.5.customLabel>Lower tail</Rakkle.corePart.parts.11.parts.5.customLabel>
+                                                 <!-- Lower tailbone -->
+<Rakkle.corePart.parts.11.parts.5.parts.0.customLabel>Lower tailbone</Rakkle.corePart.parts.11.parts.5.parts.0.customLabel>
+                                                 <!-- lower bellyscale -->
+<Rakkle.corePart.parts.11.parts.5.parts.1.customLabel>lower bellyscale</Rakkle.corePart.parts.11.parts.5.parts.1.customLabel>
+                                                 <!-- Rattle -->
+<Rakkle.corePart.parts.11.parts.5.parts.2.customLabel>Rattle</Rakkle.corePart.parts.11.parts.5.parts.2.customLabel>
+
+</LanguageData>

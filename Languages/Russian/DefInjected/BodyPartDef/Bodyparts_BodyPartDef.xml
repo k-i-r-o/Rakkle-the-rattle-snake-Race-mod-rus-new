@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RakkleLike/body/Bodyparts.xml-->
+           <!-- fangs -->
+<RS_Fangs.label>fangs</RS_Fangs.label>
+                 <!-- venom glands -->
+<RS_VenomGlands.label>venom glands</RS_VenomGlands.label>
+               <!-- tail -->
+<RS_UpperTail.label>tail</RS_UpperTail.label>
+               <!-- tail -->
+<RS_LowerTail.label>tail</RS_LowerTail.label>
+            <!-- tail -->
+<RS_Rattle.label>tail</RS_Rattle.label>
+                 <!-- tail -->
+<Upper_Tailbone.label>tail</Upper_Tailbone.label>
+                 <!-- tail -->
+<Lower_Tailbone.label>tail</Lower_Tailbone.label>
+                   <!-- tail -->
+<Lower_BellyScale.label>tail</Lower_BellyScale.label>
+                   <!-- tail -->
+<Upper_BellyScale.label>tail</Upper_BellyScale.label>
+
+</LanguageData>

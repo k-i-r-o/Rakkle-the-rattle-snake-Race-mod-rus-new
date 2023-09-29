@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RakkleLike/RSFactions.xml-->
+                   <!-- New Rakkle Beginning -->
+<RS_PlayerFaction.label>New Rakkle Beginning</RS_PlayerFaction.label>
+                         <!-- This is your Rakkle settlement. -->
+<RS_PlayerFaction.description>This is your Rakkle settlement.</RS_PlayerFaction.description>
+                          <!-- Rakkle -->
+<RS_PlayerFaction.pawnSingular>Rakkle</RS_PlayerFaction.pawnSingular>
+                         <!-- Rakkles -->
+<RS_PlayerFaction.pawnsPlural>Rakkles</RS_PlayerFaction.pawnsPlural>
+         <!-- Cradle Rakkle camp -->
+<Cradle.label>Cradle Rakkle camp</Cradle.label>
+               <!-- This is a Cradle Rakkle camp that captures and breeds Rakkles to be sold as slaves. It may appear like a settlement, but in reality is slave market for Rakkle trafficking. They are always eager to capture free Rakkles for their purposes. -->
+<Cradle.description>This is a Cradle Rakkle camp that captures and breeds Rakkles to be sold as slaves. It may appear like a settlement, but in reality is slave market for Rakkle trafficking. They are always eager to capture free Rakkles for their purposes.</Cradle.description>
+                <!-- Rakkle -->
+<Cradle.pawnSingular>Rakkle</Cradle.pawnSingular>
+               <!-- Rakkles -->
+<Cradle.pawnsPlural>Rakkles</Cradle.pawnsPlural>
+               <!-- boss -->
+<Cradle.leaderTitle>boss</Cradle.leaderTitle>
+      <!-- Free Rakkle Union -->
+<FRU.label>Free Rakkle Union</FRU.label>
+            <!-- A settlement of the Free Rakkle Union. Various Rakkles live together here in freedom. -->
+<FRU.description>A settlement of the Free Rakkle Union. Various Rakkles live together here in freedom.</FRU.description>
+             <!-- Rakkle -->
+<FRU.pawnSingular>Rakkle</FRU.pawnSingular>
+            <!-- Rakkles -->
+<FRU.pawnsPlural>Rakkles</FRU.pawnsPlural>
+            <!-- Leader -->
+<FRU.leaderTitle>Leader</FRU.leaderTitle>
+
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RakkleLike/Rakkle_AddedParts.xml-->
+                <!-- prosthetic wooden tail -->
+<RS_WoodenTail.label>prosthetic wooden tail</RS_WoodenTail.label>
+                      <!-- A Rakkle tail prosthesis. While it lacks a neural interface, its complex arrangement of joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real tail. -->
+<RS_WoodenTail.description>A Rakkle tail prosthesis. While it lacks a neural interface, its complex arrangement of joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real tail.</RS_WoodenTail.description>
+                <!-- bionic Rakkle tail -->
+<RS_BionicTail.label>bionic Rakkle tail</RS_BionicTail.label>
+                      <!-- An advanced artificial Rakkle tail. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. With its powerful mini-servos it is better than a biological Rakkle tail in almost every way. -->
+<RS_BionicTail.description>An advanced artificial Rakkle tail. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. With its powerful mini-servos it is better than a biological Rakkle tail in almost every way.</RS_BionicTail.description>
+                      <!-- bionic Rakkle belly scale -->
+<RS_BionicBellyscale.label>bionic Rakkle belly scale</RS_BionicBellyscale.label>
+                            <!-- An advanced artificial Rakkle belly scale. It is connected with synthetic muscle fibers and a biogel nerve-link, plus a high-flow pump for rapid circulation during high stress. It is better than a biological Rakkle belly scale in almost every way. -->
+<RS_BionicBellyscale.description>An advanced artificial Rakkle belly scale. It is connected with synthetic muscle fibers and a biogel nerve-link, plus a high-flow pump for rapid circulation during high stress. It is better than a biological Rakkle belly scale in almost every way.</RS_BionicBellyscale.description>
+                 <!-- Rakkle venom glands -->
+<RS_VenomGlands.label>Rakkle venom glands</RS_VenomGlands.label>
+                       <!-- A Rakkle's venom glands. They have been adapted from the salivary gland and secrete a complex mixture of peptides and proteins channelled to the fangs through connecting ducts. The venom delivered by a single bite is not strong enough to kill prey immediately but will build up quickly when bitten repeatedly. -->
+<RS_VenomGlands.description>A Rakkle's venom glands. They have been adapted from the salivary gland and secrete a complex mixture of peptides and proteins channelled to the fangs through connecting ducts. The venom delivered by a single bite is not strong enough to kill prey immediately but will build up quickly when bitten repeatedly.</RS_VenomGlands.description>
+                <!-- Rakkle hyporegulator -->
+<RS_Thermostat.label>Rakkle hyporegulator</RS_Thermostat.label>
+                      <!-- An advanced body implant. It attempts to enhance the mental and physical temperature resilience of a Rakkle. The implant increases the effectiveness of the HPA axis and the body's thermoregulation. -->
+<RS_Thermostat.description>An advanced body implant. It attempts to enhance the mental and physical temperature resilience of a Rakkle. The implant increases the effectiveness of the HPA axis and the body's thermoregulation.</RS_Thermostat.description>
+                       <!-- Rakkle obedience implant -->
+<RS_ObedienceTerminal.label>Rakkle obedience implant</RS_ObedienceTerminal.label>
+                             <!-- An obedience implant for Rakkle. Designed by the Cradle to subjugate enslaved Rakkle and secure their control. The implant releases a strong electric charge to burn a slave's central nervous system if they ever dare to defy the will of their master. Due to a constant basic voltage, the implant it will increase a subject's metabolism but cause a steady decline in health. -->
+<RS_ObedienceTerminal.description>An obedience implant for Rakkle. Designed by the Cradle to subjugate enslaved Rakkle and secure their control. The implant releases a strong electric charge to burn a slave's central nervous system if they ever dare to defy the will of their master. Due to a constant basic voltage, the implant it will increase a subject's metabolism but cause a steady decline in health.</RS_ObedienceTerminal.description>
+
+</LanguageData>

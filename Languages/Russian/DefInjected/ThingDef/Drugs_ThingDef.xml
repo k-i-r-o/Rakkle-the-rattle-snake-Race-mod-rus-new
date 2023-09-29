@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/ThingDefs/Drugs.xml-->
+               <!-- Rakkle SnakeSkin -->
+<RS_SnakeSkin.label>Rakkle SnakeSkin</RS_SnakeSkin.label>
+                     <!-- A Rakkle's skin. Used as a material for S.S helmintic. -->
+<RS_SnakeSkin.description>A Rakkle's skin. Used as a material for S.S helmintic.</RS_SnakeSkin.description>
+                <!-- S.S helminthic -->
+<RS_helminthic.label>S.S helminthic</RS_helminthic.label>
+                      <!-- Helmintic is made by refining Rakkle skin. It can be used to treat a muscle parasite or gut worm infection. However, there is no preventive effect. -->
+<RS_helminthic.description>Helmintic is made by refining Rakkle skin. It can be used to treat a muscle parasite or gut worm infection. However, there is no preventive effect.</RS_helminthic.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/ThingDefs/Food.xml-->
+                          <!-- Big simple raw meatball -->
+<RS_BigSimpleRawMeatBall.label>Big simple raw meatball</RS_BigSimpleRawMeatBall.label>
+                                <!-- A large ball of raw meat. Rakkle's favourite food. -->
+<RS_BigSimpleRawMeatBall.description>A large ball of raw meat. Rakkle's favourite food.</RS_BigSimpleRawMeatBall.description>
+                          <!-- Big lavish raw meatball -->
+<RS_BigLavishRawMeatBall.label>Big lavish raw meatball</RS_BigLavishRawMeatBall.label>
+                                <!-- A large ball of raw meat. All poor quality parts were removed creating and exceptionally tasty gourmet meat ball. Rakkle's LOVE these. -->
+<RS_BigLavishRawMeatBall.description>A large ball of raw meat. All poor quality parts were removed creating and exceptionally tasty gourmet meat ball. Rakkle's LOVE these.</RS_BigLavishRawMeatBall.description>
+
+</LanguageData>
