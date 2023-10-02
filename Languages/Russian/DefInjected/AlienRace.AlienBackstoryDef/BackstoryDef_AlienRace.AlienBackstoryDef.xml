@@ -2,308 +2,310 @@
 <LanguageData>
 <!--/1.4/Defs/Backstory/BackstoryDef.xml-->
                    <!-- Rakkle Colony kid -->
-<Rakkle_ColonyKid.title>Rakkle Colony kid</Rakkle_ColonyKid.title>
+<Rakkle_ColonyKid.title>Ребенок из колонии Ракклов</Rakkle_ColonyKid.title>
                         <!-- colony kid -->
-<Rakkle_ColonyKid.titleShort>colony kid</Rakkle_ColonyKid.titleShort>
+<Rakkle_ColonyKid.titleShort>ребенок из колонии</Rakkle_ColonyKid.titleShort>
                       <!-- [PAWN_nameDef] grew up in a Free Rakkle settlement, dreaming of adventure and unaware of the burden [PAWN_pronoun] was born into. -->
-<Rakkle_ColonyKid.baseDesc>[PAWN_nameDef] grew up in a Free Rakkle settlement, dreaming of adventure and unaware of the burden [PAWN_pronoun] was born into.</Rakkle_ColonyKid.baseDesc>
+<Rakkle_ColonyKid.baseDesc>[PAWN_nameDef] вырос в свободном поселении Ракклов, мечтая о приключениях и не подозревая о бремени, с которым родился [PAWN_pronoun].</Rakkle_ColonyKid.baseDesc>
                  <!-- Rakkle Student -->
-<Rakkle_Student.title>Rakkle Student</Rakkle_Student.title>
+<Rakkle_Student.title>Студент Ракклов</Rakkle_Student.title>
                     <!-- [PAWN_nameDef] learned how to survive in the periphery at the academy. [PAW_pronoun] learned to make lasting friendships and stand together against the harsh realities of life in the galaxy. -->
-<Rakkle_Student.baseDesc>[PAWN_nameDef] learned how to survive in the periphery at the academy. [PAW_pronoun] learned to make lasting friendships and stand together against the harsh realities of life in the galaxy.</Rakkle_Student.baseDesc>
+<Rakkle_Student.baseDesc>[PAWN_nameDef] научился выживать на периферии в академии. [PAW_pronoun] научились заводить прочные дружеские отношения и вместе противостоять суровым реалиям жизни в галактике.</Rakkle_Student.baseDesc>
                        <!-- Rakkle Emergency food -->
-<Rakkle_EmergencyFood.title>Rakkle Emergency food</Rakkle_EmergencyFood.title>
+<Rakkle_EmergencyFood.title>Еда для экстренных случаев Ракклов</Rakkle_EmergencyFood.title>
                             <!-- Emergency food -->
-<Rakkle_EmergencyFood.titleShort>Emergency food</Rakkle_EmergencyFood.titleShort>
+<Rakkle_EmergencyFood.titleShort>Еда для экстренных случаев</Rakkle_EmergencyFood.titleShort>
                           <!-- [PAWN_nameDef] is a young Rakkle kidnapped by a cannibal tribe. [PAWN_pronoun] spent months watching friends and family disappear one after the other without much hope for survival. After digging a tunnel in secret, [PAWN_nameDef] managed to escape, keeping [PAWN_possessive] life but bearing the scars of missing family and broken innocence. -->
-<Rakkle_EmergencyFood.baseDesc>[PAWN_nameDef] is a young Rakkle kidnapped by a cannibal tribe. [PAWN_pronoun] spent months watching friends and family disappear one after the other without much hope for survival. After digging a tunnel in secret, [PAWN_nameDef] managed to escape, keeping [PAWN_possessive] life but bearing the scars of missing family and broken innocence.</Rakkle_EmergencyFood.baseDesc>
+<Rakkle_EmergencyFood.baseDesc>Еда для экстренных случаев</Rakkle_EmergencyFood.titleShort>
+  <Rakkle_EmergencyFood.baseDesc>[PAWN_nameDef] - молодой Раккл, похищенный племенем каннибалов. [PAWN_pronoun] провел месяцы, наблюдая, как друзья и семья исчезают один за другим, без особой надежды на выживание. Тайно прорыв туннель, [PAWN_nameDef] сумел сбежать, сохранив жизнь [PAWN_possessive], но неся на себе шрамы пропавшей семьи и разбитой невинности.</Rakkle_EmergencyFood.baseDesc>
                      <!-- Rakkle Gifted child -->
-<Rakkle_GiftedChild.title>Rakkle Gifted child</Rakkle_GiftedChild.title>
+<Rakkle_GiftedChild.title>Одаренный ребёнок Ракклов</Rakkle_GiftedChild.title>
                           <!-- Gifted child -->
-<Rakkle_GiftedChild.titleShort>Gifted child</Rakkle_GiftedChild.titleShort>
+<Rakkle_GiftedChild.titleShort>Одарённый ребёнок</Rakkle_GiftedChild.titleShort>
                         <!-- [PAWN_nameDef] is a gifted child among Rakkle youths, and received a high level of education. [PAWN_pronoun] did very well but could not stand the pressure and expectations, fleeing [PAWN_possessive] home colony. -->
-<Rakkle_GiftedChild.baseDesc>[PAWN_nameDef] is a gifted child among Rakkle youths, and received a high level of education. [PAWN_pronoun] did very well but could not stand the pressure and expectations, fleeing [PAWN_possessive] home colony.</Rakkle_GiftedChild.baseDesc>
+<Rakkle_GiftedChild.baseDesc>[PAWN_nameDef] - одаренный ребенок среди молодежи Ракклов, получивший высокий уровень образования. [PAWN_pronoun] держался очень хорошо, но не выдержал давления и ожиданий, сбежав из родной колонии [PAWN_possessive].</Rakkle_GiftedChild.baseDesc>
                <!-- Rakkle Bully -->
-<Rakkle_Bully.title>Rakkle Bully</Rakkle_Bully.title>
+<Rakkle_Bully.title>Хулиган Ракклов</Rakkle_Bully.title>
                   <!-- [PAWN_nameDef] was raised in a smaller Rakkle settlement, that lacked the resources to care for everyone properly. Without parents to look after [PAWN_possessive], [PAWN_pronoun] took what [PAWN_pronoun] wanted through force and coercion. -->
-<Rakkle_Bully.baseDesc>[PAWN_nameDef] was raised in a smaller Rakkle settlement, that lacked the resources to care for everyone properly. Without parents to look after [PAWN_possessive], [PAWN_pronoun] took what [PAWN_pronoun] wanted through force and coercion.</Rakkle_Bully.baseDesc>
+<Rakkle_Bully.baseDesc>[PAWN_nameDef] вырос в небольшом поселении Ракклов, где не хватало ресурсов, чтобы должным образом заботиться обо всех. Без родителей, которые могли бы присматривать за [PAWN_possessive], [PAWN_pronoun] взял то, что [PAWN_pronoun] хотел, с помощью силы и принуждения.</Rakkle_Bully.baseDesc>
                  <!-- Rakkle Subject -->
-<Rakkle_Subject.title>Rakkle Subject</Rakkle_Subject.title>
+<Rakkle_Subject.title>Объект изучения Ракклов</Rakkle_Subject.title>
                     <!-- [PAWN_nameDef] never had the advantage of living in a Free Rakkle settlement. [PAWN_possessive] youth was spent in the depths of Cradle laboratories; the subject of test after test of endurance and psychology. After a particularly grueling battery of tests, [PAWN_pronoun] fully lost [PAWN_possessive] grip on reality. -->
-<Rakkle_Subject.baseDesc>[PAWN_nameDef] never had the advantage of living in a Free Rakkle settlement. [PAWN_possessive] youth was spent in the depths of Cradle laboratories; the subject of test after test of endurance and psychology. After a particularly grueling battery of tests, [PAWN_pronoun] fully lost [PAWN_possessive] grip on reality.</Rakkle_Subject.baseDesc>
+<Rakkle_Subject.baseDesc>Объект изучения</Rakkle_Subject.titleShort>
+  <Rakkle_Subject.baseDesc>[PAWN_nameDef] никогда не имел преимущества жить в свободном поселении Раккле. [PAWN_possessive] юность прошла в недрах лабораторий Cradle; предмет испытания за испытанием на выносливость и психологию. После особенно изнурительной серии тестов [PAWN_pronoun] полностью утратил [PAWN_possessive] связь с реальностью.</Rakkle_Subject.baseDesc>
                          <!-- Rakkle Hunter assistant -->
-<Rakkle_HunterAssistant.title>Rakkle Hunter assistant</Rakkle_HunterAssistant.title>
+<Rakkle_HunterAssistant.title>Помощник охотника Ракклов</Rakkle_HunterAssistant.title>
                               <!-- Hunter assistant -->
-<Rakkle_HunterAssistant.titleShort>Hunter assistant</Rakkle_HunterAssistant.titleShort>
+<Rakkle_HunterAssistant.titleShort>Помощник охотника</Rakkle_HunterAssistant.titleShort>
                             <!-- [PAWN_nameDef] apprenticed under a famous hunter while living in the outskirts of a smaller Free Rakkle settlement. [PAWN_possessive] mentor was slow to praise, but [PAWN_nameDef]'s skill cannot be doubted. -->
-<Rakkle_HunterAssistant.baseDesc>[PAWN_nameDef] apprenticed under a famous hunter while living in the outskirts of a smaller Free Rakkle settlement. [PAWN_possessive] mentor was slow to praise, but [PAWN_nameDef]'s skill cannot be doubted.</Rakkle_HunterAssistant.baseDesc>
+<Rakkle_HunterAssistant.baseDesc>[PAWN_nameDef] учился у знаменитого охотника, живя на окраине небольшого свободного поселения Ракклов. Наставник [PAWN_possessive] не спешил хвалить, но мастерство [PAWN_nameDef] не подлежит сомнению.</Rakkle_HunterAssistant.baseDesc>
                   <!-- Rakkle Booksnake -->
-<Rakkle_BookWorm.title>Rakkle Booksnake</Rakkle_BookWorm.title>
+<Rakkle_BookWorm.title>Книжный змей</Rakkle_BookWorm.title>
                      <!-- The world of fighting for survival and freedom never appealed to [PAWN_nameDef], who much preferred books and study. Teased as a booksnake, [PAWN_pronoun] hopes that [PAWN_pronoun] can cross words over blades, and draw discussion before firearms. -->
-<Rakkle_BookWorm.baseDesc>The world of fighting for survival and freedom never appealed to [PAWN_nameDef], who much preferred books and study. Teased as a booksnake, [PAWN_pronoun] hopes that [PAWN_pronoun] can cross words over blades, and draw discussion before firearms.</Rakkle_BookWorm.baseDesc>
+<Rakkle_BookWorm.baseDesc>Мир борьбы за выживание и свободу никогда не привлекал [PAWN_nameDef], который предпочитал книги и учебу. Дразнимый как книжный змей, [PAWN_pronoun] надеется, что [PAWN_pronoun] сможет скрестить слова с клинками и вызвать дискуссию перед огнестрельным оружием.</Rakkle_BookWorm.baseDesc>
                           <!-- Rakkle Clothing store kid -->
-<Rakkle_ClothingStoreKid.title>Rakkle Clothing store kid</Rakkle_ClothingStoreKid.title>
+<Rakkle_ClothingStoreKid.title>Дитя швеи Ракклов</Rakkle_ClothingStoreKid.title>
                                <!-- Clothing store kid -->
-<Rakkle_ClothingStoreKid.titleShort>Clothing store kid</Rakkle_ClothingStoreKid.titleShort>
+<Rakkle_ClothingStoreKid.titleShort>Дитя швеи</Rakkle_ClothingStoreKid.titleShort>
                              <!-- [PAWN_nameDef] is the adopted child of a notable seamster. While [PAWN_pronoun] managed to escape many of the harsh realities of living in the Rim, perhaps the things [PAWN_pronoun] learned will be of some use now out on [PAWN_possessive] own. -->
-<Rakkle_ClothingStoreKid.baseDesc>[PAWN_nameDef] is the adopted child of a notable seamster. While [PAWN_pronoun] managed to escape many of the harsh realities of living in the Rim, perhaps the things [PAWN_pronoun] learned will be of some use now out on [PAWN_possessive] own.</Rakkle_ClothingStoreKid.baseDesc>
+<Rakkle_ClothingStoreKid.baseDesc>[PAWN_nameDef] - приемный ребенок известной швеи. В то время как [PAWN_pronoun] удалось избежать многих суровых реалий жизни в Приграничье, возможно, то, чему научился [PAWN_pronoun], теперь пригодится самому [PAWN_possessive]wn.</Rakkle_ClothingStoreKid.baseDesc>
                             <!-- Rakkle Construction worker -->
-<Rakkle_ConstructionWorker.title>Rakkle Construction worker</Rakkle_ConstructionWorker.title>
+<Rakkle_ConstructionWorker.title>Рабочий-строитель Ракклов</Rakkle_ConstructionWorker.title>
                                  <!-- Construction worker -->
-<Rakkle_ConstructionWorker.titleShort>Construction worker</Rakkle_ConstructionWorker.titleShort>
+<Rakkle_ConstructionWorker.titleShort>Рабочий-строитель</Rakkle_ConstructionWorker.titleShort>
                                <!-- Born with more brawn than average in a large colony, [PAWN_nameDef] found more success hauling materials and helping on construction sites. Though [PAWN_pronoun] struggles to learn more complex subjects, none can doubt [PAWN_possessive] work ethic. -->
-<Rakkle_ConstructionWorker.baseDesc>Born with more brawn than average in a large colony, [PAWN_nameDef] found more success hauling materials and helping on construction sites. Though [PAWN_pronoun] struggles to learn more complex subjects, none can doubt [PAWN_possessive] work ethic.</Rakkle_ConstructionWorker.baseDesc>
+<Rakkle_ConstructionWorker.baseDesc>Рожденный в большой колонии с более развитой мускулатурой, чем в среднем, [PAWN_nameDef] добился большего успеха в перевозке материалов и помощи на строительных площадках. Хотя [PAWN_pronoun] изо всех сил старается изучать более сложные предметы, никто не может сомневаться в трудовой этике [PAWN_possessive].</Rakkle_ConstructionWorker.baseDesc>
                 <!-- Rakkle Orphan -->
-<Rakkle_Orphan.title>Rakkle Orphan</Rakkle_Orphan.title>
+<Rakkle_Orphan.title>Сирота Раккл</Rakkle_Orphan.title>
                    <!-- After [PAWN_possessive] parents died as a result of civil unrest, [PAWN_nameDef] was forced to live on the fringes of [PAWN_possessive] home colony as an outcast. Harsh realities are [PAWN_possessive] everyday existence, and [PAWN_pronoun] will do whatever is necessary to survive in the Rim. -->
-<Rakkle_Orphan.baseDesc>After [PAWN_possessive] parents died as a result of civil unrest, [PAWN_nameDef] was forced to live on the fringes of [PAWN_possessive] home colony as an outcast. Harsh realities are [PAWN_possessive] everyday existence, and [PAWN_pronoun] will do whatever is necessary to survive in the Rim.</Rakkle_Orphan.baseDesc>
+<Rakkle_Orphan.baseDesc>После того, как родители [PAWN_possessive] умерли в результате гражданских беспорядков, [PAWN_nameDef] был вынужден жить на окраине родной колонии [PAWN_possessive] в качестве изгоя. Суровые реалии - это повседневное существование [PAWN_possessive], и [PAWN_pronoun] сделает все необходимое, чтобы выжить.</Rakkle_Orphan.baseDesc>
                        <!-- Rakkle Immature child -->
-<Rakkle_ImmatureChild.title>Rakkle Immature child</Rakkle_ImmatureChild.title>
+<Rakkle_ImmatureChild.title>Незрелый ребенок Ракклов</Rakkle_ImmatureChild.title>
                             <!-- Immature child -->
-<Rakkle_ImmatureChild.titleShort>Immature child</Rakkle_ImmatureChild.titleShort>
+<Rakkle_ImmatureChild.titleShort>Незрелый ребенок</Rakkle_ImmatureChild.titleShort>
                           <!-- [PAWN_nameDef] is a youthful Rakkle, still innocent to life in the Rim. -->
-<Rakkle_ImmatureChild.baseDesc>[PAWN_nameDef] is a youthful Rakkle, still innocent to life in the Rim.</Rakkle_ImmatureChild.baseDesc>
+<Rakkle_ImmatureChild.baseDesc>[PAWN_nameDef] - юный Раккл, все еще неподготовленный к жизни.</Rakkle_ImmatureChild.baseDesc>
                          <!-- Trading Precocious child -->
-<Rakkle_PrecociousChild.title>Trading Precocious child</Rakkle_PrecociousChild.title>
+<Rakkle_PrecociousChild.title>Дитя прирожденный торговец</Rakkle_PrecociousChild.title>
                               <!-- Precocious child -->
-<Rakkle_PrecociousChild.titleShort>Precocious child</Rakkle_PrecociousChild.titleShort>
+<Rakkle_PrecociousChild.titleShort>Не по годам развитый ребенок</Rakkle_PrecociousChild.titleShort>
                             <!-- [PAWN_nameDef] matured faster than their peers in [PAWN_possessive] home colony, becoming something of an older sibling for many. [PAWN_pronoun] often needed to learn new things rapidly, for the benefit of [PAWN_possessive] family. -->
-<Rakkle_PrecociousChild.baseDesc>[PAWN_nameDef] matured faster than their peers in [PAWN_possessive] home colony, becoming something of an older sibling for many. [PAWN_pronoun] often needed to learn new things rapidly, for the benefit of [PAWN_possessive] family.</Rakkle_PrecociousChild.baseDesc>
+<Rakkle_PrecociousChild.baseDesc>[PAWN_nameDef] взрослели быстрее, чем их сверстники в родной колонии [PAWN_possessive], становясь для многих чем-то вроде старшего брата. [PAWN_pronoun] часто требовалось быстро осваивать новые вещи на благо семьи [PAWN_possessive].</Rakkle_PrecociousChild.baseDesc>
                       <!-- Rakkle Curious child -->
-<Rakkle_CuriousChild.title>Rakkle Curious child</Rakkle_CuriousChild.title>
+<Rakkle_CuriousChild.title>Любопытный ребенок Ракклов</Rakkle_CuriousChild.title>
                            <!-- Curious child -->
-<Rakkle_CuriousChild.titleShort>Curious child</Rakkle_CuriousChild.titleShort>
+<Rakkle_CuriousChild.titleShort>Любопытный ребенок</Rakkle_CuriousChild.titleShort>
                          <!-- Curiosity killed the cat, but it failed to kill [PAWN_nameDef]. [PAWN_pronoun] never stopped asking questions, and though it causes [PAWN_possessive] problems [PAWN_pronoun] is always eager to dig deeper to understand the world around [PAWN_possessive]. -->
-<Rakkle_CuriousChild.baseDesc>Curiosity killed the cat, but it failed to kill [PAWN_nameDef]. [PAWN_pronoun] never stopped asking questions, and though it causes [PAWN_possessive] problems [PAWN_pronoun] is always eager to dig deeper to understand the world around [PAWN_possessive].</Rakkle_CuriousChild.baseDesc>
+<Rakkle_CuriousChild.baseDesc>Любопытство убило кошку, но ему не удалось убить [PAWN_nameDef]. [PAWN_pronoun] никогда не переставал задавать вопросы, и хотя это вызывает у [PAWN_possessive] проблемы, [PAWN_pronoun] всегда стремится копать глубже, чтобы понять окружающий мир [PAWN_possessive].</Rakkle_CuriousChild.baseDesc>
                    <!-- Rakkle Wild snake -->
-<Rakkle_WildSnake.title>Rakkle Wild snake</Rakkle_WildSnake.title>
+<Rakkle_WildSnake.title>Дикий змей Ракклов</Rakkle_WildSnake.title>
                         <!-- Wild snake -->
-<Rakkle_WildSnake.titleShort>Wild snake</Rakkle_WildSnake.titleShort>
+<Rakkle_WildSnake.titleShort>Дикий змей</Rakkle_WildSnake.titleShort>
                       <!-- [PAWN_nameDef] avoided capture for years, until [PAWN_possessive] pursuers gave up and left [PAWN_possessive] for dead. However, life in the rim is even harder for Rakkles not integrated into communities, so [PAWN_nameDef] decided to face the challenge of joining one. -->
-<Rakkle_WildSnake.baseDesc>[PAWN_nameDef] avoided capture for years, until [PAWN_possessive] pursuers gave up and left [PAWN_possessive] for dead. However, life in the rim is even harder for Rakkles not integrated into communities, so [PAWN_nameDef] decided to face the challenge of joining one.</Rakkle_WildSnake.baseDesc>
+<Rakkle_WildSnake.baseDesc>[PAWN_nameDef] избегал поимки в течение многих лет, пока преследователи [PAWN_possessive] не сдались и не оставили [PAWN_possessive] умирать. Однако жизнь еще тяжелее для ракклов, не интегрированных в сообщества, поэтому [PAWN_nameDef] решил принять вызов и присоединиться к одному из них.</Rakkle_WildSnake.baseDesc>
                    <!-- Rakkle Slumsnake -->
-<Rakkle_Slumsnake.title>Rakkle Slumsnake</Rakkle_Slumsnake.title>
+<Rakkle_Slumsnake.title>Раккл - змея из трущоб</Rakkle_Slumsnake.title>
                       <!-- [PAWN_nameDef] began [PAWN_possessive] life as a slave to a colony slumlord, often being used as a bribe [PAWN_objective]self to placate officials. After murdering [PAWN_possessive] owner, [PAWN_pronoun] left the colony to find refuge elsewhere. -->
-<Rakkle_Slumsnake.baseDesc>[PAWN_nameDef] began [PAWN_possessive] life as a slave to a colony slumlord, often being used as a bribe [PAWN_objective]self to placate officials. After murdering [PAWN_possessive] owner, [PAWN_pronoun] left the colony to find refuge elsewhere.</Rakkle_Slumsnake.baseDesc>
+<Rakkle_Slumsnake.baseDesc>[PAWN_nameDef] начал [PAWN_possessive] жизнь рабом хозяина трущоб колонии, часто его использовали в качестве взятки [PAWN_objective] самому себе, чтобы задобрить чиновников. После убийства владельца [PAWN_possessive], [PAWN_pronoun] покинул колонию, чтобы найти убежище в другом месте.</Rakkle_Slumsnake.baseDesc>
                 <!-- Rakkle shut in -->
-<Rakkle_Shutin.title>Rakkle shut in</Rakkle_Shutin.title>
+<Rakkle_Shutin.title>Затворник Ракклов</Rakkle_Shutin.title>
                      <!-- shut in -->
-<Rakkle_Shutin.titleShort>shut in</Rakkle_Shutin.titleShort>
+<Rakkle_Shutin.titleShort>Затворник</Rakkle_Shutin.titleShort>
                    <!-- [PAWN_nameDef] could never stand being seen, and [PAWN_pronoun] took care to stay out of sight whenever possible. Attention always brought trouble for [PAWN_possessive] and [PAWN_pronoun] only enters a colony out of necessity. Perhaps this time, it will end differently... -->
-<Rakkle_Shutin.baseDesc>[PAWN_nameDef] could never stand being seen, and [PAWN_pronoun] took care to stay out of sight whenever possible. Attention always brought trouble for [PAWN_possessive] and [PAWN_pronoun] only enters a colony out of necessity. Perhaps this time, it will end differently...</Rakkle_Shutin.baseDesc>
+<Rakkle_Shutin.baseDesc>[PAWN_nameDef] терпеть не мог, когда его видели, и [PAWN_pronoun] старался по возможности оставаться вне поля зрения. Внимание всегда доставляло неприятности [PAWN_possessive], а [PAWN_pronoun] входит в колонию только по необходимости. Возможно, на этот раз все закончится по-другому...</Rakkle_Shutin.baseDesc>
                              <!-- Rakkle Abandoned young slave -->
-<Rakkle_AbandonedYoungSlave.title>Rakkle Abandoned young slave</Rakkle_AbandonedYoungSlave.title>
+<Rakkle_AbandonedYoungSlave.title>Брошенный молодой раб Ракклов</Rakkle_AbandonedYoungSlave.title>
                                   <!-- Abandoned young slave -->
-<Rakkle_AbandonedYoungSlave.titleShort>Abandoned young slave</Rakkle_AbandonedYoungSlave.titleShort>
+<Rakkle_AbandonedYoungSlave.titleShort>Брошенный молодой раб</Rakkle_AbandonedYoungSlave.titleShort>
                                 <!-- [PAWN_nameDef] was a slave in a small human settlement. Once the settlemnt was itself overrun by raiders, anyone left alive had nowhere else to go. [PAWN_nameDef] survived in the wild for a time, but ultimately could not survive on [PAWN_possessive] own, and sought help. -->
-<Rakkle_AbandonedYoungSlave.baseDesc>[PAWN_nameDef] was a slave in a small human settlement. Once the settlemnt was itself overrun by raiders, anyone left alive had nowhere else to go. [PAWN_nameDef] survived in the wild for a time, but ultimately could not survive on [PAWN_possessive] own, and sought help.</Rakkle_AbandonedYoungSlave.baseDesc>
+<Rakkle_AbandonedYoungSlave.baseDesc>[PAWN_nameDef] был рабом в маленьком человеческом поселении. Как только поселение само по себе было захвачено рейдерами, всем, кто остался в живых, больше некуда было идти. [PAWN_nameDef] некоторое время выживал в дикой природе, но в конечном счете не смог выжить самостоятельно [PAWN_possessive] и обратился за помощью.</Rakkle_AbandonedYoungSlave.baseDesc>
                      <!-- Rakkle Idol trainee -->
-<Rakkle_IdolTrainee.title>Rakkle Idol trainee</Rakkle_IdolTrainee.title>
+<Rakkle_IdolTrainee.title>Идол Ракклов</Rakkle_IdolTrainee.title>
                           <!-- Idol trainee -->
-<Rakkle_IdolTrainee.titleShort>Idol trainee</Rakkle_IdolTrainee.titleShort>
+<Rakkle_IdolTrainee.titleShort>Идол</Rakkle_IdolTrainee.titleShort>
                         <!-- [PAWN_nameDef] was inspired by [PAWN_possessive] favorite idol, but had little opportunity in [PAWN_possessive] small Free Rakkle settlement. [PAWN_pronoun] set out to find larger horizons and more fans [PAWN_pronoun] could call [PAWN_possessive] own. -->
-<Rakkle_IdolTrainee.baseDesc>[PAWN_nameDef] was inspired by [PAWN_possessive] favorite idol, but had little opportunity in [PAWN_possessive] small Free Rakkle settlement. [PAWN_pronoun] set out to find larger horizons and more fans [PAWN_pronoun] could call [PAWN_possessive] own.</Rakkle_IdolTrainee.baseDesc>
+<Rakkle_IdolTrainee.baseDesc>[PAWN_nameDef] был вдохновлен любимым идолом [PAWN_possessive], но у него было мало возможностей в [PAWN_possessive] маленьком свободном поселении Ракклов. [PAWN_pronoun] намеревался найти более широкие горизонты и больше поклонников, которых [PAWN_pronoun] мог бы назвать [PAWN_possessive] своими.</Rakkle_IdolTrainee.baseDesc>
                        <!-- Rakkle Little glutton -->
-<Rakkle_LittleGlutton.title>Rakkle Little glutton</Rakkle_LittleGlutton.title>
+<Rakkle_LittleGlutton.title>Маленький обжора Ракклов</Rakkle_LittleGlutton.title>
                             <!-- Little glutton -->
-<Rakkle_LittleGlutton.titleShort>Little glutton</Rakkle_LittleGlutton.titleShort>
+<Rakkle_LittleGlutton.titleShort>Маленький обжора</Rakkle_LittleGlutton.titleShort>
                           <!-- [PAWN_nameDef] found [PAWN_possessive] first taste of gourmet food in the kitchens of [PAWN_possessive] wealthy owner's estate. [PAWN_pronoun] could not get enonugh, but when the owner passed away, even as an independent Rakkle [PAWN_pronoun] could not find work as a chef. [PAWN_pronoun] set off to find someone who could appreciate [PAWN_possessive] talents. -->
-<Rakkle_LittleGlutton.baseDesc>[PAWN_nameDef] found [PAWN_possessive] first taste of gourmet food in the kitchens of [PAWN_possessive] wealthy owner's estate. [PAWN_pronoun] could not get enonugh, but when the owner passed away, even as an independent Rakkle [PAWN_pronoun] could not find work as a chef. [PAWN_pronoun] set off to find someone who could appreciate [PAWN_possessive] talents.</Rakkle_LittleGlutton.baseDesc>
+<Rakkle_LittleGlutton.baseDesc>[PAWN_nameDef] обнаружил, что [PAWN_possessive] впервые попробовал изысканные блюда на кухне поместья [PAWN_possessive] богатого владельца. [PAWN_pronoun] не мог насытиться, но когда владелец скончался, даже будучи независимым, Раккл [PAWN_pronoun] не смог найти работу шеф-повара. [PAWN_pronoun] отправился на поиски кого-то, кто смог бы оценить таланты [PAWN_possessive].</Rakkle_LittleGlutton.baseDesc>
                     <!-- Rakkle Plant lover -->
-<Rakkle_PlantLover.title>Rakkle Plant lover</Rakkle_PlantLover.title>
+<Rakkle_PlantLover.title>Любитель растений Ракклов</Rakkle_PlantLover.title>
                          <!-- Plant lover -->
-<Rakkle_PlantLover.titleShort>Plant lover</Rakkle_PlantLover.titleShort>
+<Rakkle_PlantLover.titleShort>Любитель растений</Rakkle_PlantLover.titleShort>
                        <!-- [PAWN_nameDef] was born and raised in the wild to a small Rakkle family. [PAWN_pronoun] spent [PAWN_possessive] days out in the woods around [PAWN_possessive] house, learning the names and properties of local flora. Eventually the area grew smaller as [PAWN_pronoun] grew older, and [PAWN_pronoun] left to find a wider world with ever stranger plant life. -->
-<Rakkle_PlantLover.baseDesc>[PAWN_nameDef] was born and raised in the wild to a small Rakkle family. [PAWN_pronoun] spent [PAWN_possessive] days out in the woods around [PAWN_possessive] house, learning the names and properties of local flora. Eventually the area grew smaller as [PAWN_pronoun] grew older, and [PAWN_pronoun] left to find a wider world with ever stranger plant life.</Rakkle_PlantLover.baseDesc>
+<Rakkle_PlantLover.baseDesc>[PAWN_nameDef] родился и вырос в дикой природе в маленькой семье Ракклов. [PAWN_pronoun] проводил [PAWN_possessive] дни в лесу вокруг дома [PAWN_possessive], изучая названия и свойства местной флоры. В конце концов, по мере того, как [PAWN_pronoun] становился старше, территория становилась все меньше, и [PAWN_pronoun] ушел, чтобы найти более широкий мир со все более странной растительной жизнью.</Rakkle_PlantLover.baseDesc>
                  <!-- Cradle Young Goods -->
-<CRD_YoungGoods.title>Cradle Young Goods</CRD_YoungGoods.title>
+<CRD_YoungGoods.title>Молодой товар Ракклов</CRD_YoungGoods.title>
                       <!-- Young Goods -->
-<CRD_YoungGoods.titleShort>Young Goods</CRD_YoungGoods.titleShort>
+<CRD_YoungGoods.titleShort>Молодой товар</CRD_YoungGoods.titleShort>
                     <!-- [PAWN_nameDef] is fresh from the arms of The Cradle; a blank slate ready and willing to serve the needs of its newest masters. -->
-<CRD_YoungGoods.baseDesc>[PAWN_nameDef] is fresh from the arms of The Cradle; a blank slate ready and willing to serve the needs of its newest masters.</CRD_YoungGoods.baseDesc>
+<CRD_YoungGoods.baseDesc>[PAWN_nameDef] только что вышел из колыбели; чистый лист, готовый и желающий служить потребностям своих новых хозяев.</CRD_YoungGoods.baseDesc>
                         <!-- Cradle Cradle Leader Child -->
-<CRD_CradleLeaderChild.title>Cradle Cradle Leader Child</CRD_CradleLeaderChild.title>
+<CRD_CradleLeaderChild.title>Ребенок-лидер колыбели</CRD_CradleLeaderChild.title>
                              <!-- Cradle leader child -->
-<CRD_CradleLeaderChild.titleShort>Cradle leader child</CRD_CradleLeaderChild.titleShort>
+<CRD_CradleLeaderChild.titleShort>Ребенок-лидер колыбели</CRD_CradleLeaderChild.titleShort>
                            <!-- [PAWN_nameDef] was promising even by The Cradle's high standards, and was marketed as useful for even leadership or municipal duties in society. It looks forward to helping its community grow. -->
-<CRD_CradleLeaderChild.baseDesc>[PAWN_nameDef] was promising even by The Cradle's high standards, and was marketed as useful for even leadership or municipal duties in society. It looks forward to helping its community grow.</CRD_CradleLeaderChild.baseDesc>
+<CRD_CradleLeaderChild.baseDesc>[PAWN_nameDef] был многообещающим даже по высоким стандартам колыбели и продавался как полезный для руководства мероприятиями или выполнения муниципальных обязанностей в обществе. Он с нетерпением ждет возможности помочь своему сообществу расти.</CRD_CradleLeaderChild.baseDesc>
                     <!-- Rakkle Blacksmith -->
-<Rakkle_Blacksmith.title>Rakkle Blacksmith</Rakkle_Blacksmith.title>
+<Rakkle_Blacksmith.title>Кузнец Ракклов</Rakkle_Blacksmith.title>
                        <!-- [PAWN_nameDef] is a savant with ore and forge. [PAWN_pronoun] would rather work in tools and materials than anything, but makes a living in the harsh Rim by making weapons. -->
-<Rakkle_Blacksmith.baseDesc>[PAWN_nameDef] is a savant with ore and forge. [PAWN_pronoun] would rather work in tools and materials than anything, but makes a living in the harsh Rim by making weapons.</Rakkle_Blacksmith.baseDesc>
+<Rakkle_Blacksmith.baseDesc>[PAWN_nameDef] - знаток руды и кузнечного дела. [PAWN_pronoun] предпочел бы работать с инструментами и материалами, чем с чем-либо еще, но зарабатывает на жизнь в суровом мире изготовлением оружия.</Rakkle_Blacksmith.baseDesc>
                  <!-- Rakkle Butcher -->
-<Rakkle_Butcher.title>Rakkle Butcher</Rakkle_Butcher.title>
+<Rakkle_Butcher.title>Мясник Ракклов</Rakkle_Butcher.title>
                     <!-- [PAWN_nameDef] is an assistant of [PAWN_possessive] settlement's butcher. Though most of their work is for food and consumption, the work did teach [PAWN_nameDef] the important skill of quickly relieving most organic creatures of their limbs. -->
-<Rakkle_Butcher.baseDesc>[PAWN_nameDef] is an assistant of [PAWN_possessive] settlement's butcher. Though most of their work is for food and consumption, the work did teach [PAWN_nameDef] the important skill of quickly relieving most organic creatures of their limbs.</Rakkle_Butcher.baseDesc>
+<Rakkle_Butcher.baseDesc>[PAWN_nameDef] - помощник мясника поселений [PAWN_possessive]. Хотя большая часть их работы связана с едой и потреблением, эта работа научила [PAWN_nameDef] важному навыку быстрого избавления большинства органических существ от их конечностей.</Rakkle_Butcher.baseDesc>
                     <!-- Rakkle Seamstress -->
-<Rakkle_Seamstress.title>Rakkle Seamstress</Rakkle_Seamstress.title>
+<Rakkle_Seamstress.title>Швея Ракклов</Rakkle_Seamstress.title>
                        <!-- [PAWN_nameDef] sewed clothes for [PAWN_possessive] entire Free Rakkle settlement, before it was attacked and burned to the ground. With no place to go, [PAWN_pronoun] needs a new place to weave [PAWN_possessive] masterpieces. -->
-<Rakkle_Seamstress.baseDesc>[PAWN_nameDef] sewed clothes for [PAWN_possessive] entire Free Rakkle settlement, before it was attacked and burned to the ground. With no place to go, [PAWN_pronoun] needs a new place to weave [PAWN_possessive] masterpieces.</Rakkle_Seamstress.baseDesc>
+<Rakkle_Seamstress.baseDesc>[PAWN_nameDef] шил одежду для [PAWN_possessive] всего свободного поселения Ракклов, прежде чем на него напали и сожгли дотла. Поскольку [PAWN_pronoun] некуда идти, ему нужно новое место, чтобы создавать шедевры [PAWN_possessive].</Rakkle_Seamstress.baseDesc>
                  <!-- Rakkle Rancher -->
-<Rakkle_Rancher.title>Rakkle Rancher</Rakkle_Rancher.title>
+<Rakkle_Rancher.title>Владелец ранчо Ракклов</Rakkle_Rancher.title>
                     <!-- [PAWN_nameDef] managed a family ranch for years, learning the needs of the local fauna. [PAWN_pronoun] can't help [PAWN_possessive] carnivorous nature, but [PAWN_pronoun] appreciates the relationship people need with their livestock. -->
-<Rakkle_Rancher.baseDesc>[PAWN_nameDef] managed a family ranch for years, learning the needs of the local fauna. [PAWN_pronoun] can't help [PAWN_possessive] carnivorous nature, but [PAWN_pronoun] appreciates the relationship people need with their livestock.</Rakkle_Rancher.baseDesc>
+<Rakkle_Rancher.baseDesc>[PAWN_nameDef] много лет управлял семейным ранчо, изучая потребности местной фауны. [PAWN_pronoun] не может помочь [PAWN_possessive] плотоядной натуре, но [PAWN_pronoun] ценит отношения, которые нужны людям со своим домашним скотом.</Rakkle_Rancher.baseDesc>
                <!-- Rakkle Guard -->
-<Rakkle_Guard.title>Rakkle Guard</Rakkle_Guard.title>
+<Rakkle_Guard.title>Охранник Ракклов</Rakkle_Guard.title>
                   <!-- [PAWN_nameDef] lived through three successive raids on [PAWN_possessive] home colony, once from raiders and twice from The Cradle itself. [PAWN_pronoun] will fight with [PAWN_possessive] life to protect people from that oppression. -->
-<Rakkle_Guard.baseDesc>[PAWN_nameDef] lived through three successive raids on [PAWN_possessive] home colony, once from raiders and twice from The Cradle itself. [PAWN_pronoun] will fight with [PAWN_possessive] life to protect people from that oppression.</Rakkle_Guard.baseDesc>
+<Rakkle_Guard.baseDesc>[PAWN_nameDef] пережил три последовательных набега на родную колонию [PAWN_possessive], один раз от рейдеров и дважды от самой Колыбели. [PAWN_pronoun] будет бороться за [PAWN_possessive] жизнь, чтобы защитить людей от этого угнетения.</Rakkle_Guard.baseDesc>
                 <!-- Rakkle Hunter -->
-<Rakkle_Hunter.title>Rakkle Hunter</Rakkle_Hunter.title>
+<Rakkle_Hunter.title>Охотник  Ракклов</Rakkle_Hunter.title>
                    <!-- [PAWN_nameDef] understands that hunting is necessary for many to survive, but [PAWN_pronoun] is in it for the thrill. [PAWN_pronoun] does not care for safety and will chase a single quarry for weeks just for the satisfaction of taking it down. -->
-<Rakkle_Hunter.baseDesc>[PAWN_nameDef] understands that hunting is necessary for many to survive, but [PAWN_pronoun] is in it for the thrill. [PAWN_pronoun] does not care for safety and will chase a single quarry for weeks just for the satisfaction of taking it down.</Rakkle_Hunter.baseDesc>
+<Rakkle_Hunter.baseDesc>[PAWN_nameDef] понимает, что охота необходима многим для выживания, но [PAWN_pronoun] занимается этим ради острых ощущений. [PAWN_pronoun] не заботится о безопасности и будет неделями гоняться за одной добычей только ради удовольствия ее уничтожить.</Rakkle_Hunter.baseDesc>
                    <!-- Rakkle Architect -->
-<Rakkle_Architect.title>Rakkle Architect</Rakkle_Architect.title>
+<Rakkle_Architect.title>Архитектор Ракклов</Rakkle_Architect.title>
                       <!-- [PAWN_nameDef] built [PAWN_possessive] career from ruins. A colony, ravaged by conflict, was burned to the ground. [PAWN_nameDef] was bought as a laborer, but [PAWN_possessive] skill with engineering and planning cemented [PAWN_possessive] position in rebuilding the colony for the remaining residents. In spite of [PAWN_possessive] kindness, however, the remaining residents soured, with the looming threat of Cradle agents returning to reduce their home to ash once again. [PAWN_nameDef] was driven out into the wilderness to find a new home. -->
-<Rakkle_Architect.baseDesc>[PAWN_nameDef] built [PAWN_possessive] career from ruins. A colony, ravaged by conflict, was burned to the ground. [PAWN_nameDef] was bought as a laborer, but [PAWN_possessive] skill with engineering and planning cemented [PAWN_possessive] position in rebuilding the colony for the remaining residents. In spite of [PAWN_possessive] kindness, however, the remaining residents soured, with the looming threat of Cradle agents returning to reduce their home to ash once again. [PAWN_nameDef] was driven out into the wilderness to find a new home.</Rakkle_Architect.baseDesc>
+<Rakkle_Architect.baseDesc>[PAWN_nameDef] построил карьеру [PAWN_possessive] из руин. Колония, разоренная конфликтом, была сожжена дотла. [PAWN_nameDef] был куплен как чернорабочий, но навыки [PAWN_possessive] в области инженерии и планирования укрепили позицию [PAWN_possessive] в восстановлении колонии для оставшихся жителей. Однако, несмотря на доброту [PAWN_possessive], оставшиеся жители испортились из-за нависшей угрозы возвращения агентов колыбели, чтобы снова превратить их дом в пепел. [PAWN_nameDef] был изгнан в пустыню, чтобы найти новый дом.</Rakkle_Architect.baseDesc>
                  <!-- Rakkle Avenger -->
-<Rakkle_Avenger.title>Rakkle Avenger</Rakkle_Avenger.title>
+<Rakkle_Avenger.title>Мститель Ракклов</Rakkle_Avenger.title>
                     <!-- After losing colony and family to Cradle aggressors, [PAWN_nameDef] swore an oath of revenge. [PAWN_pronoun] watched, acting as a corpse, as the rest of [PAWN_possessive] family was brutally murdered by slavers. [PAWN_pronoun] will not rest until The Cradle as an entity no longer exists. -->
-<Rakkle_Avenger.baseDesc>After losing colony and family to Cradle aggressors, [PAWN_nameDef] swore an oath of revenge. [PAWN_pronoun] watched, acting as a corpse, as the rest of [PAWN_possessive] family was brutally murdered by slavers. [PAWN_pronoun] will not rest until The Cradle as an entity no longer exists.</Rakkle_Avenger.baseDesc>
+<Rakkle_Avenger.baseDesc>Потеряв колонию и семью из-за агрессоров Колыбели, [PAWN_nameDef] поклялся отомстить. [PAWN_pronoun] наблюдал как остальная часть семьи [PAWN_possessive] была зверски убита работорговцами. [PAWN_pronoun] не успокоится до тех пор, пока Колыбель как сущность больше не перестанет существовать.</Rakkle_Avenger.baseDesc>
                        <!-- Rakkle Cannibal snake -->
-<Rakkle_CannibalSnake.title>Rakkle Cannibal snake</Rakkle_CannibalSnake.title>
+<Rakkle_CannibalSnake.title>Змей каннибал Ракклов</Rakkle_CannibalSnake.title>
                             <!-- Cannibal snake -->
-<Rakkle_CannibalSnake.titleShort>Cannibal snake</Rakkle_CannibalSnake.titleShort>
+<Rakkle_CannibalSnake.titleShort>Змей каннибал</Rakkle_CannibalSnake.titleShort>
                           <!-- While Rakkle are ordinarily non-aggressive, desperation drove [PAWN_nameDef] to extremes. The property of a small but vicious gang of enforcers, [PAWN_pronoun] was frequently forced to fight and work without food or sleep for days. In a desperate fit of fury, [PAWN_pronoun] turned on [PAWN_possessive] captors, eating some of them to pacify the raw hunger in [PAWN_possessive] stomach. Free, but aimless, [PAWN_pronoun] wanders the land for [PAWN_possessive] next meal, or just a place to rest. -->
-<Rakkle_CannibalSnake.baseDesc>While Rakkle are ordinarily non-aggressive, desperation drove [PAWN_nameDef] to extremes. The property of a small but vicious gang of enforcers, [PAWN_pronoun] was frequently forced to fight and work without food or sleep for days. In a desperate fit of fury, [PAWN_pronoun] turned on [PAWN_possessive] captors, eating some of them to pacify the raw hunger in [PAWN_possessive] stomach. Free, but aimless, [PAWN_pronoun] wanders the land for [PAWN_possessive] next meal, or just a place to rest.</Rakkle_CannibalSnake.baseDesc>
+<Rakkle_CannibalSnake.baseDesc>В то время как Ракклы обычно неагрессивны, отчаяние довело [PAWN_nameDef] до крайности. Будучи собственностью небольшой, но злобной банды силовиков, [PAWN_pronoun] часто был вынужден сражаться и работать без еды и сна в течение нескольких дней. В приступе отчаянной ярости [PAWN_pronoun] набросился на похитителей [PAWN_possessive], съев некоторых из них, чтобы утолить дикий голод в желудке [PAWN_possessive]. Свободный, но бесцельный, [PAWN_pronoun] бродит по земле в поисках [PAWN_possessive] следующего приема пищи или просто места для отдыха.</Rakkle_CannibalSnake.baseDesc>
                 <!-- Rakkle Farmer -->
-<Rakkle_Farmer.title>Rakkle Farmer</Rakkle_Farmer.title>
+<Rakkle_Farmer.title>Фермер Ракклов</Rakkle_Farmer.title>
                    <!-- Rakkle farmers are a bit of an oddity, but [PAWN_nameDef] takes pride in [PAWN_possessive] work. Many of the things [PAWN_pronoun] grows are unpalatable to [PAWN_possessive], but [PAWN_pronoun] enjoys the challenge of making edible things grow in the harsh environments of the Rim. -->
-<Rakkle_Farmer.baseDesc>Rakkle farmers are a bit of an oddity, but [PAWN_nameDef] takes pride in [PAWN_possessive] work. Many of the things [PAWN_pronoun] grows are unpalatable to [PAWN_possessive], but [PAWN_pronoun] enjoys the challenge of making edible things grow in the harsh environments of the Rim.</Rakkle_Farmer.baseDesc>
+<Rakkle_Farmer.baseDesc>Фермеры Ракклов немного странноваты, но [PAWN_nameDef] гордится работой [PAWN_possessive]. Многое из того, что выращивает [PAWN_pronoun], неприятно для [PAWN_possessive], но [PAWN_pronoun] нравится выращивать съедобные продукты в суровых условиях.</Rakkle_Farmer.baseDesc>
                   <!-- Rakkle Diplomat -->
-<Rakkle_Diplomat.title>Rakkle Diplomat</Rakkle_Diplomat.title>
+<Rakkle_Diplomat.title>Дипломат Ракклов</Rakkle_Diplomat.title>
                      <!-- [PAWN_nameDef] was sold at birth to a family of high-ranking politicians and public servants. Though [PAWN_pronoun] was never intended to do any municipal work, living and sleeping with a range of officials gave [PAWN_possessive] a particular insight into how government functions. As [PAWN_pronoun] grew up [PAWN_pronoun] developed a talent for guiding people and mediating arguments. Rather than doing things [PAWN_objective]self, [PAWN_pronoun] understands the potential in having others do things for [PAWN_possessive]. -->
-<Rakkle_Diplomat.baseDesc>[PAWN_nameDef] was sold at birth to a family of high-ranking politicians and public servants. Though [PAWN_pronoun] was never intended to do any municipal work, living and sleeping with a range of officials gave [PAWN_possessive] a particular insight into how government functions. As [PAWN_pronoun] grew up [PAWN_pronoun] developed a talent for guiding people and mediating arguments. Rather than doing things [PAWN_objective]self, [PAWN_pronoun] understands the potential in having others do things for [PAWN_possessive].</Rakkle_Diplomat.baseDesc>
+<Rakkle_Diplomat.baseDesc>[PAWN_nameDef] был продан при рождении семье высокопоставленных политиков и государственных служащих. Хотя [PAWN_pronoun] никогда не предназначался для выполнения какой-либо муниципальной работы, проживание и сон с целым рядом чиновников дали [PAWN_possessive] особое представление о том, как функционирует правительство. По мере того как [PAWN_pronoun] рос, [PAWN_pronoun] развил в себе талант направлять людей и выступать посредником в спорах. Вместо того, чтобы делать что-то [PAWN_objective]самостоятельно, [PAWN_pronoun] понимает потенциал того, чтобы другие делали что-то для [PAWN_possessive].</Rakkle_Diplomat.baseDesc>
               <!-- Rakkle Lazy -->
-<Rakkle_Lazy.title>Rakkle Lazy</Rakkle_Lazy.title>
+<Rakkle_Lazy.title>Ленивый Раккл</Rakkle_Lazy.title>
                  <!-- [PAWN_nameDef] was bought and owned by a very wealthy family as a pet. As a result, [PAWN_pronoun] never had to do much work for anything, and hated any time [PAWN_pronoun] had to. Though [PAWN_possessive] needs were always met at home, [PAWN_possessive] owners being imprisoned for extortion and larceny put [PAWN_pronoun] out on the street, where no one else was as driven to care of [PAWN_possessive]. -->
-<Rakkle_Lazy.baseDesc>[PAWN_nameDef] was bought and owned by a very wealthy family as a pet. As a result, [PAWN_pronoun] never had to do much work for anything, and hated any time [PAWN_pronoun] had to. Though [PAWN_possessive] needs were always met at home, [PAWN_possessive] owners being imprisoned for extortion and larceny put [PAWN_pronoun] out on the street, where no one else was as driven to care of [PAWN_possessive].</Rakkle_Lazy.baseDesc>
+<Rakkle_Lazy.baseDesc>[PAWN_nameDef] был куплен и принадлежал очень богатой семье в качестве домашнего животного. В результате [PAWN_pronoun] никогда не приходилось много работать ни для чего, и он ненавидел любое время, когда [PAWN_pronoun] приходилось это делать. Хотя потребности [PAWN_possessive] всегда удовлетворялись дома, владельцы [PAWN_possessive], попавшие в тюрьму за вымогательство и воровство, выставили [PAWN_pronoun] на улицу, где никто другой не был так заинтересован в заботе о [PAWN_possessive].</Rakkle_Lazy.baseDesc>
               <!-- Rakkle Idol -->
-<Rakkle_Idol.title>Rakkle Idol</Rakkle_Idol.title>
+<Rakkle_Idol.title>Идол Ракклов</Rakkle_Idol.title>
                  <!-- [PAWN_nameDef]'s rise to stardom was sudden and meteoric. Though many people in the Rim have more important concerns than a pretty face, [PAWN_possessive] songs about hope for the future and union of peoples captures hearts of adults and children the planet around. [PAWN_pronoun] travels the surface to spread [PAWN_possessive] message and spread [PAWN_possessive] reach to even bigger stages. -->
-<Rakkle_Idol.baseDesc>[PAWN_nameDef]'s rise to stardom was sudden and meteoric. Though many people in the Rim have more important concerns than a pretty face, [PAWN_possessive] songs about hope for the future and union of peoples captures hearts of adults and children the planet around. [PAWN_pronoun] travels the surface to spread [PAWN_possessive] message and spread [PAWN_possessive] reach to even bigger stages.</Rakkle_Idol.baseDesc>
+<Rakkle_Idol.baseDesc>Восхождение [PAWN_nameDef] к славе было внезапным и стремительным. Хотя у многих людей есть заботы поважнее, чем красивое личико, песни [PAWN_possessive] о надежде на будущее и единении народов покоряют сердца взрослых и детей по всей планете. [PAWN_pronoun] путешествует по поверхности, чтобы распространить сообщение [PAWN_possessive] и распространить [PAWN_possessive] на еще большие этапы.</Rakkle_Idol.baseDesc>
                <!-- Rakkle Model -->
-<Rakkle_Model.title>Rakkle Model</Rakkle_Model.title>
+<Rakkle_Model.title>Модель Ракклов</Rakkle_Model.title>
                   <!-- [PAWN_nameDef] was always prized for [PAWN_possessive] particular beauty. Statuesque features combined with a hypnotic voice and magnetic charm meant that even after [PAWN_possessive] adopted family could not hold on to [PAWN_possessive], [PAWN_pronoun] could get whatever [PAWN_pronoun] wanted by asking the right way. -->
-<Rakkle_Model.baseDesc>[PAWN_nameDef] was always prized for [PAWN_possessive] particular beauty. Statuesque features combined with a hypnotic voice and magnetic charm meant that even after [PAWN_possessive] adopted family could not hold on to [PAWN_possessive], [PAWN_pronoun] could get whatever [PAWN_pronoun] wanted by asking the right way.</Rakkle_Model.baseDesc>
+<Rakkle_Model.baseDesc>[PAWN_nameDef] всегда ценился за особую красоту [PAWN_possessive]. Статные черты лица в сочетании с гипнотическим голосом и магнетическим обаянием означали, что даже после того, как [PAWN_possessive] приемная семья не смогла удержать [PAWN_possessive], [PAWN_pronoun] мог получить все, что [PAWN_pronoun] хотел, попросив правильным способом.</Rakkle_Model.baseDesc>
                  <!-- Rakkle Teacher -->
-<Rakkle_Teacher.title>Rakkle Teacher</Rakkle_Teacher.title>
+<Rakkle_Teacher.title>Учитель Ракклов</Rakkle_Teacher.title>
                     <!-- [PAWN_nameDef] trained in a large colony to be a teacher as a missionary for smaller settlements. [PAWN_possessive] gentle and supportive demeanor make [PAWN_objective] ideal for the job. -->
-<Rakkle_Teacher.baseDesc>[PAWN_nameDef] trained in a large colony to be a teacher as a missionary for smaller settlements. [PAWN_possessive] gentle and supportive demeanor make [PAWN_objective] ideal for the job.</Rakkle_Teacher.baseDesc>
+<Rakkle_Teacher.baseDesc>[PAWN_nameDef] обучался в большой колонии на учителя и миссионера в небольших поселениях. [PAWN_possessive] мягкое и поддерживающее поведение делает [PAWN_objective] идеальным кандидатом на эту работу.</Rakkle_Teacher.baseDesc>
                    <!-- Rakkle Professor -->
-<Rakkle_Professor.title>Rakkle Professor</Rakkle_Professor.title>
+<Rakkle_Professor.title>Профессор Ракклов</Rakkle_Professor.title>
                       <!-- [PAWN_nameDef] was a gifted child, and readily took to [PAWN_possessive] studies. [PAWN_pronoun] sometimes may act as a teacher or lecturer when necessary, but [PAWN_pronoun] is much more comfortable in [PAWN_possessive] laboratory. -->
-<Rakkle_Professor.baseDesc>[PAWN_nameDef] was a gifted child, and readily took to [PAWN_possessive] studies. [PAWN_pronoun] sometimes may act as a teacher or lecturer when necessary, but [PAWN_pronoun] is much more comfortable in [PAWN_possessive] laboratory.</Rakkle_Professor.baseDesc>
+<Rakkle_Professor.baseDesc>[PAWN_nameDef] был одаренным ребенком и с готовностью взялся за изучение [PAWN_possessive]. [PAWN_pronoun] иногда может выступать в роли учителя или лектора, когда это необходимо, но [PAWN_pronoun] гораздо комфортнее чувствует себя в лаборатории [PAWN_possessive].</Rakkle_Professor.baseDesc>
                <!-- Rakkle Miner -->
-<Rakkle_Miner.title>Rakkle Miner</Rakkle_Miner.title>
+<Rakkle_Miner.title>Шахтер Ракклов</Rakkle_Miner.title>
                   <!-- Mining is not a savory job to many, but [PAWN_nameDef] is happy to do it. Some wild Rakkles used to live underground, and [PAWN_pronoun] is more comfortable around rocks and ore than dealing with society. -->
-<Rakkle_Miner.baseDesc>Mining is not a savory job to many, but [PAWN_nameDef] is happy to do it. Some wild Rakkles used to live underground, and [PAWN_pronoun] is more comfortable around rocks and ore than dealing with society.</Rakkle_Miner.baseDesc>
+<Rakkle_Miner.baseDesc>Шахтерство - не самая приятная работа для многих, но [PAWN_nameDef] с удовольствием этим занимается. Некоторые дикие безрассудные раньше жили под землей, и [PAWN_pronoun] чувствует себя более комфортно среди камней и руды, чем в обществе.</Rakkle_Miner.baseDesc>
                   <!-- Rakkle Merchant -->
-<Rakkle_Merchant.title>Rakkle Merchant</Rakkle_Merchant.title>
+<Rakkle_Merchant.title>Торговец Ракклов</Rakkle_Merchant.title>
                      <!-- [PAWN_nameDef] was purchased by an interplanetary merchant to assist with bookkeeping, but showed promise in the trading profession itself. Eventually [PAWN_pronoun] was allowed to run routes and make deals on behalf of [PAWN_possessive] manager. -->
-<Rakkle_Merchant.baseDesc>[PAWN_nameDef] was purchased by an interplanetary merchant to assist with bookkeeping, but showed promise in the trading profession itself. Eventually [PAWN_pronoun] was allowed to run routes and make deals on behalf of [PAWN_possessive] manager.</Rakkle_Merchant.baseDesc>
+<Rakkle_Merchant.baseDesc>[PAWN_nameDef] был куплен межпланетным торговцем для помощи в ведении бухгалтерии, но показал себя многообещающим в самой профессии трейдера. В конце концов [PAWN_pronoun] было разрешено управлять маршрутами и заключать сделки от имени менеджера [PAWN_possessive].</Rakkle_Merchant.baseDesc>
                 <!-- Rakkle Gunner -->
-<Rakkle_Gunner.title>Rakkle Gunner</Rakkle_Gunner.title>
+<Rakkle_Gunner.title>Пулеметчик Ракклов</Rakkle_Gunner.title>
                    <!-- [PAWN_nameDef] has only one passion: ballistics. Anything with a projectile, [PAWN_pronoun] can operate. While [PAWN_pronoun] is not particularly hostile towards others, [PAWN_pronoun] claims to take pride in never missing a target. -->
-<Rakkle_Gunner.baseDesc>[PAWN_nameDef] has only one passion: ballistics. Anything with a projectile, [PAWN_pronoun] can operate. While [PAWN_pronoun] is not particularly hostile towards others, [PAWN_pronoun] claims to take pride in never missing a target.</Rakkle_Gunner.baseDesc>
+<Rakkle_Gunner.baseDesc>У [PAWN_nameDef] есть только одна страсть: баллистика. Все, что имеет снаряд, [PAWN_pronoun] может работать. В то время как [PAWN_pronoun] не особенно враждебен по отношению к другим, [PAWN_pronoun] утверждает, что гордится тем, что никогда не промахивается мимо цели.</Rakkle_Gunner.baseDesc>
                      <!-- Rakkle Storyteller -->
-<Rakkle_Storyteller.title>Rakkle Storyteller</Rakkle_Storyteller.title>
+<Rakkle_Storyteller.title>Рассказчик Ракклов</Rakkle_Storyteller.title>
                         <!-- [PAWN_nameDef] wanted to be a teacher of some kind, but could never manage the grades in school to make it. Instead, [PAWN_pronoun] does the next thing [PAWN_pronoun] can think of and shares wisdom and knowledge through weaving stories for children. -->
-<Rakkle_Storyteller.baseDesc>[PAWN_nameDef] wanted to be a teacher of some kind, but could never manage the grades in school to make it. Instead, [PAWN_pronoun] does the next thing [PAWN_pronoun] can think of and shares wisdom and knowledge through weaving stories for children.</Rakkle_Storyteller.baseDesc>
+<Rakkle_Storyteller.baseDesc>[PAWN_nameDef] хотел стать кем-нибудь вроде учителя, но никогда не мог справиться с оценками в школе, чтобы добиться этого. Вместо этого [PAWN_pronoun] делает следующее, что приходит в голову [PAWN_pronoun], и делится мудростью и знаниями, рассказывая истории для детей.</Rakkle_Storyteller.baseDesc>
               <!-- Rakkle Fool -->
-<Rakkle_Fool.title>Rakkle Fool</Rakkle_Fool.title>
+<Rakkle_Fool.title>Дурак Ракклов</Rakkle_Fool.title>
                  <!-- One can tell by a single look into [PAWN_nameDef]'s eyes that there are no thoughts rolling behind them. [PAWN_pronoun] gets through life on charm, the kindness of others, or just plain dumb luck. -->
-<Rakkle_Fool.baseDesc>One can tell by a single look into [PAWN_nameDef]'s eyes that there are no thoughts rolling behind them. [PAWN_pronoun] gets through life on charm, the kindness of others, or just plain dumb luck.</Rakkle_Fool.baseDesc>
+<Rakkle_Fool.baseDesc>Достаточно одного взгляда в глаза [PAWN_nameDef], чтобы понять, что за ними не скрывается никаких мыслей. [PAWN_pronoun] живет благодаря обаянию, доброте других или просто глупой удаче.</Rakkle_Fool.baseDesc>
                 <!-- Rakkle Doctor -->
-<Rakkle_Doctor.title>Rakkle Doctor</Rakkle_Doctor.title>
+<Rakkle_Doctor.title>Доктор Ракклов</Rakkle_Doctor.title>
                    <!-- [PAWN_nameDef] was never trained for medical work, but seeing battlefield after battlefield and helping the fallen in triage educated [PAWN_pronoun] better than any academy could have. [PAWN_pronoun] greatest desire is to cure more common colds than blade and bullet wounds. -->
-<Rakkle_Doctor.baseDesc>[PAWN_nameDef] was never trained for medical work, but seeing battlefield after battlefield and helping the fallen in triage educated [PAWN_pronoun] better than any academy could have. [PAWN_pronoun] greatest desire is to cure more common colds than blade and bullet wounds.</Rakkle_Doctor.baseDesc>
+<Rakkle_Doctor.baseDesc>[PAWN_nameDef] никогда не готовился к медицинской работе, но, видя поле боя за полем битвы и помогая павшим в сортировке, обучил [PAWN_pronoun] лучше, чем могла бы любая академия. [PAWN_pronoun] самое большое желание - вылечить больше обычных простуд, чем ножевых и пулевых ранений.</Rakkle_Doctor.baseDesc>
                            <!-- Rakkle Orphanage director -->
-<Rakkle_OrphanageDirector.title>Rakkle Orphanage director</Rakkle_OrphanageDirector.title>
+<Rakkle_OrphanageDirector.title>Директор детского дома Ракклов</Rakkle_OrphanageDirector.title>
                                 <!-- Orphanage director -->
-<Rakkle_OrphanageDirector.titleShort>Orphanage director</Rakkle_OrphanageDirector.titleShort>
+<Rakkle_OrphanageDirector.titleShort>Директор детского дома</Rakkle_OrphanageDirector.titleShort>
                               <!-- [PAWN_nameDef] runs the colony orphanage. [PAWN_pronoun] [PAWN_objective]self was fortunate enough to have a kind adoptive family, but [PAWN_pronoun] knew many of [PAWN_possessive] friends, as well as other children, had no such luck. [PAWN_pronoun] knows [PAWN_pronoun] can't save every lost child out there, but intends to try. -->
-<Rakkle_OrphanageDirector.baseDesc>[PAWN_nameDef] runs the colony orphanage. [PAWN_pronoun] [PAWN_objective]self was fortunate enough to have a kind adoptive family, but [PAWN_pronoun] knew many of [PAWN_possessive] friends, as well as other children, had no such luck. [PAWN_pronoun] knows [PAWN_pronoun] can't save every lost child out there, but intends to try.</Rakkle_OrphanageDirector.baseDesc>
+<Rakkle_OrphanageDirector.baseDesc>[PAWN_nameDef] управляет сиротским приютом колонии. [PAWN_pronoun] [PAWN_objective] мне посчастливилось иметь добрую приемную семью, но [PAWN_pronoun] знал, что многим из [PAWN_possessive] друзей, а также другим детям так не повезло. [PAWN_pronoun] знает, что [PAWN_pronoun] не может спасти каждого потерявшегося ребенка, но намерен попытаться.</Rakkle_OrphanageDirector.baseDesc>
                 <!-- Rakkle Artist -->
-<Rakkle_Artist.title>Rakkle Artist</Rakkle_Artist.title>
+<Rakkle_Artist.title>Художник Ракклов</Rakkle_Artist.title>
                    <!-- Beyond any other pursuit, [PAWN_nameDef] feels the most gratification when making art. [PAWN_pronoun] will do anything that allows [PAWN_objective] to keep following [PAWN_possessive] artistic visions. -->
-<Rakkle_Artist.baseDesc>Beyond any other pursuit, [PAWN_nameDef] feels the most gratification when making art. [PAWN_pronoun] will do anything that allows [PAWN_objective] to keep following [PAWN_possessive] artistic visions.</Rakkle_Artist.baseDesc>
+<Rakkle_Artist.baseDesc>Помимо любого другого занятия, [PAWN_nameDef] испытывает наибольшее удовлетворение, создавая произведения искусства. [PAWN_pronoun] сделает все, что позволит [PAWN_objective] продолжать следовать художественным представлениям [PAWN_possessive].</Rakkle_Artist.baseDesc>
                       <!-- Rakkle Escaped goods -->
-<Rakkle_EscapedGoods.title>Rakkle Escaped goods</Rakkle_EscapedGoods.title>
+<Rakkle_EscapedGoods.title>Сбежавший товар Ракклов</Rakkle_EscapedGoods.title>
                            <!-- Escaped goods -->
-<Rakkle_EscapedGoods.titleShort>Escaped goods</Rakkle_EscapedGoods.titleShort>
+<Rakkle_EscapedGoods.titleShort>Сбежавший товар</Rakkle_EscapedGoods.titleShort>
                          <!-- [PAWN_nameDef] was intended to be high-quality stock for a colony's leader, but [PAWN_possessive] independent nature wouldn't allow it. When the transport vessel crash landed several miles from its destination, [PAWN_pronoun] took the opportunity to flee [PAWN_possessive] captors and never turn back. -->
-<Rakkle_EscapedGoods.baseDesc>[PAWN_nameDef] was intended to be high-quality stock for a colony's leader, but [PAWN_possessive] independent nature wouldn't allow it. When the transport vessel crash landed several miles from its destination, [PAWN_pronoun] took the opportunity to flee [PAWN_possessive] captors and never turn back.</Rakkle_EscapedGoods.baseDesc>
+<Rakkle_EscapedGoods.baseDesc>[PAWN_nameDef] был задуман как высококачественный запас для лидера колонии, но независимый характер [PAWN_possessive] не позволил бы этого. Когда транспортное судно совершило аварийную посадку в нескольких милях от места назначения, [PAWN_pronoun] воспользовался возможностью сбежать от похитителей [PAWN_possessive] и никогда не возвращаться.</Rakkle_EscapedGoods.baseDesc>
           <!-- Cradle Toy -->
-<CDR_Toy.title>Cradle Toy</CDR_Toy.title>
+<CDR_Toy.title>Игрушка колыбели</CDR_Toy.title>
                <!-- Cradle Toy -->
-<CDR_Toy.titleShort>Cradle Toy</CDR_Toy.titleShort>
+<CDR_Toy.titleShort>Игрушка колыбели</CDR_Toy.titleShort>
              <!-- [PAWN_nameDef] was bred specifically to be a toy for its buyers. Lacking any sense of free will or self-preservation, it will often follow orders without a second thought - only enough to be sure its masters are having fun. -->
-<CDR_Toy.baseDesc>[PAWN_nameDef] was bred specifically to be a toy for its buyers. Lacking any sense of free will or self-preservation, it will often follow orders without a second thought - only enough to be sure its masters are having fun.</CDR_Toy.baseDesc>
+<CDR_Toy.baseDesc>[PAWN_nameDef] был выведен специально для того, чтобы быть игрушкой для своих покупателей. Лишенный какого-либо чувства свободы воли или самосохранения, он часто будет выполнять приказы без задней мысли - только для того, чтобы убедиться, что его хозяева развлекаются.</CDR_Toy.baseDesc>
            <!-- Cradle Maid -->
-<CDR_Maid.title>Cradle Maid</CDR_Maid.title>
+<CDR_Maid.title>Служанка колыбели</CDR_Maid.title>
                 <!-- Cradle Maid -->
-<CDR_Maid.titleShort>Cradle Maid</CDR_Maid.titleShort>
+<CDR_Maid.titleShort>Служанка колыбели</CDR_Maid.titleShort>
               <!-- [PAWN_nameDef] is trained to be, in every sense, the perfect hostess and housekeeper. It has etiquette and servitude drilled into its genes, and will do whatever is necessary to please its masters. -->
-<CDR_Maid.baseDesc>[PAWN_nameDef] is trained to be, in every sense, the perfect hostess and housekeeper. It has etiquette and servitude drilled into its genes, and will do whatever is necessary to please its masters.</CDR_Maid.baseDesc>
+<CDR_Maid.baseDesc>[PAWN_nameDef] обучена быть, во всех смыслах, идеальной хозяйкой и домоправительницей. В его генах заложены этикет и раболепие, и он сделает все необходимое, чтобы угодить своим хозяевам.</CDR_Maid.baseDesc>
                 <!-- Cradle Livestock -->
-<CDR_Livestock.title>Cradle Livestock</CDR_Livestock.title>
+<CDR_Livestock.title>Скот колыбели</CDR_Livestock.title>
                      <!-- Cradle Livestock -->
-<CDR_Livestock.titleShort>Cradle Livestock</CDR_Livestock.titleShort>
+<CDR_Livestock.titleShort>Скот колыбели</CDR_Livestock.titleShort>
                    <!-- [PAWN_nameDef] was bred and sold to be cattle. Be it as breeding or experimentation, its stock is often comprised of those who are completely broken by the Cradle conditioning or in some other way defective as products. -->
-<CDR_Livestock.baseDesc>[PAWN_nameDef] was bred and sold to be cattle. Be it as breeding or experimentation, its stock is often comprised of those who are completely broken by the Cradle conditioning or in some other way defective as products.</CDR_Livestock.baseDesc>
+<CDR_Livestock.baseDesc>[PAWN_nameDef] был выведен и продан как крупный рогатый скот. Будь то разведение или эксперименты, его поголовье часто состоит из тех, кто полностью испорчен условиями содержания в колыбели или каким-либо другим образом дефектен как продукция.</CDR_Livestock.baseDesc>
               <!-- Cradle Workman -->
-<CDR_Workman.title>Cradle Workman</CDR_Workman.title>
+<CDR_Workman.title>Рабочий колыбели</CDR_Workman.title>
                    <!-- Cradle Workman -->
-<CDR_Workman.titleShort>Cradle Workman</CDR_Workman.titleShort>
+<CDR_Workman.titleShort>Рабочий колыбели</CDR_Workman.titleShort>
                  <!-- Only just passing the company standards of behavior, [PAWN_nameDef] was sold to be a simple laborer. It can follow orders and retain simple instructions, but does little of its own thinking and cannot perform more complex tasks. -->
-<CDR_Workman.baseDesc>Only just passing the company standards of behavior, [PAWN_nameDef] was sold to be a simple laborer. It can follow orders and retain simple instructions, but does little of its own thinking and cannot perform more complex tasks.</CDR_Workman.baseDesc>
+<CDR_Workman.baseDesc>Только-только пройдя стандарты поведения компании, [PAWN_nameDef] был продан, чтобы стать простым чернорабочим. Он может выполнять приказы и запоминать простые инструкции, но мало что соображает самостоятельно и не может выполнять более сложные задачи.</CDR_Workman.baseDesc>
             <!-- Cradle Slave -->
-<CDR_Slave.title>Cradle Slave</CDR_Slave.title>
+<CDR_Slave.title>Раб колыбели</CDR_Slave.title>
                  <!-- Cradle Slave -->
-<CDR_Slave.titleShort>Cradle Slave</CDR_Slave.titleShort>
+<CDR_Slave.titleShort>Раб колыбели</CDR_Slave.titleShort>
                <!-- [PAWN_nameDef] is a Cradle slave stock. It was broken by the conditioning, but maintains enough intelligence to obey simple commands. -->
-<CDR_Slave.baseDesc>[PAWN_nameDef] is a Cradle slave stock. It was broken by the conditioning, but maintains enough intelligence to obey simple commands.</CDR_Slave.baseDesc>
+<CDR_Slave.baseDesc>[PAWN_nameDef] - это запас рабов-колыбелей. Он был сломлен из-за обусловленности, но сохранил достаточно интеллекта, чтобы подчиняться простым командам.</CDR_Slave.baseDesc>
                     <!-- Cradle Fighting Snake -->
-<CDR_FightingSnake.title>Cradle Fighting Snake</CDR_FightingSnake.title>
+<CDR_FightingSnake.title>Боевой змей колыбели</CDR_FightingSnake.title>
                          <!-- Cradle Fighting Snake -->
-<CDR_FightingSnake.titleShort>Cradle Fighting Snake</CDR_FightingSnake.titleShort>
+<CDR_FightingSnake.titleShort>Боевой змей колыбели</CDR_FightingSnake.titleShort>
                        <!-- [PAWN_nameDef] became an oddity in Rakkle breeding when the aggression reduction failed to take hold. It has a volatile temper and will fight anyone with little or no provocation, but can be controlled with the right compensation. -->
-<CDR_FightingSnake.baseDesc>[PAWN_nameDef] became an oddity in Rakkle breeding when the aggression reduction failed to take hold. It has a volatile temper and will fight anyone with little or no provocation, but can be controlled with the right compensation.</CDR_FightingSnake.baseDesc>
+<CDR_FightingSnake.baseDesc>[PAWN_nameDef] стал странностью в разведении Ракклов, когда снижение агрессивности не прижилось. У него вспыльчивый характер, и он будет драться с кем угодно практически без провокации, но его можно контролировать при правильной компенсации.</CDR_FightingSnake.baseDesc>
               <!-- Cradle Breeder -->
-<CDR_Breeder.title>Cradle Breeder</CDR_Breeder.title>
+<CDR_Breeder.title>Селекционер колыбели</CDR_Breeder.title>
                    <!-- Cradle Breeder -->
-<CDR_Breeder.titleShort>Cradle Breeder</CDR_Breeder.titleShort>
+<CDR_Breeder.titleShort>Селекционер колыбели</CDR_Breeder.titleShort>
                  <!-- [PAWN_nameDef] was sold  only as breeding stock. Its price was based on its appearance, not its capability or intelligence - though it may surpass those expectations. It may display some signs of personality, but can be easily overridden by a command. -->
-<CDR_Breeder.baseDesc>[PAWN_nameDef] was sold  only as breeding stock. Its price was based on its appearance, not its capability or intelligence - though it may surpass those expectations. It may display some signs of personality, but can be easily overridden by a command.</CDR_Breeder.baseDesc>
+<CDR_Breeder.baseDesc>[PAWN_nameDef] был продан только как племенной скот. Его цена была основана на внешнем виде, а не на возможностях или интеллекте, хотя он может превзойти эти ожидания. Он может проявлять некоторые признаки индивидуальности, но может быть легко переопределен командой.</CDR_Breeder.baseDesc>
            <!-- Cradle serf -->
-<CDR_serf.title>Cradle serf</CDR_serf.title>
+<CDR_serf.title>Крепостной колыбели</CDR_serf.title>
                 <!-- Cradle serf -->
-<CDR_serf.titleShort>Cradle serf</CDR_serf.titleShort>
+<CDR_serf.titleShort>Крепостной колыбели</CDR_serf.titleShort>
               <!-- [PAWN_nameDef] is well suited to farm labor. Gardening and animal husbandry come easily to it. It can fix simple things, but it is no artisan. -->
-<CDR_serf.baseDesc>[PAWN_nameDef] is well suited to farm labor. Gardening and animal husbandry come easily to it. It can fix simple things, but it is no artisan.</CDR_serf.baseDesc>
+<CDR_serf.baseDesc>[PAWN_nameDef] хорошо подходит для работы на ферме. Садоводство и животноводство легко поддаются ему. Он может чинить простые вещи, но он не ремесленник.</CDR_serf.baseDesc>
                <!-- Cradle attacker -->
-<CDR_Attacker.title>Cradle attacker</CDR_Attacker.title>
+<CDR_Attacker.title>Нападающий колыбели</CDR_Attacker.title>
                     <!-- Cradle attacker -->
-<CDR_Attacker.titleShort>Cradle attacker</CDR_Attacker.titleShort>
+<CDR_Attacker.titleShort>Нападающий колыбели</CDR_Attacker.titleShort>
                   <!-- Little more than an attack animal, [PAWN_nameDef] is bred to follow orders, engage in combat, and claim victory for its officers. Frequently used as enforcers for the Cradle, it has little empathy for living things not in its chain of command. -->
-<CDR_Attacker.baseDesc>Little more than an attack animal, [PAWN_nameDef] is bred to follow orders, engage in combat, and claim victory for its officers. Frequently used as enforcers for the Cradle, it has little empathy for living things not in its chain of command.</CDR_Attacker.baseDesc>
+<CDR_Attacker.baseDesc>[PAWN_nameDef] - не более чем боевое животное, выведенное для того, чтобы выполнять приказы, участвовать в бою и требовать победы для своих офицеров. Часто используемый в качестве силовиков для Колыбели, он почти не проявляет сочувствия к живым существам, не входящим в его подчинение.</CDR_Attacker.baseDesc>
             <!-- Cradle elite attacker -->
-<CDR_Elite.title>Cradle elite attacker</CDR_Elite.title>
+<CDR_Elite.title>Элитный нападающий колыбели</CDR_Elite.title>
                  <!-- Cradle elite attacker -->
-<CDR_Elite.titleShort>Cradle elite attacker</CDR_Elite.titleShort>
+<CDR_Elite.titleShort>Элитный нападающий колыбели</CDR_Elite.titleShort>
                <!-- Brutish and efficient, [PAWN_nameDef] was bred to be an enforcer within The Cradle's officers. It is cunning, and uses all of its wits and talent to make its commander's wishes reality. -->
-<CDR_Elite.baseDesc>Brutish and efficient, [PAWN_nameDef] was bred to be an enforcer within The Cradle's officers. It is cunning, and uses all of its wits and talent to make its commander's wishes reality.</CDR_Elite.baseDesc>
+<CDR_Elite.baseDesc>Жестокий и эффективный, [PAWN_nameDef] был воспитан, чтобы быть силовиком среди офицеров Cradle. Он хитер и использует весь свой ум и талант, чтобы воплотить желания своего командира в реальность.</CDR_Elite.baseDesc>
                <!-- Cradle captured -->
-<CDR_Captured.title>Cradle captured</CDR_Captured.title>
+<CDR_Captured.title>Пленный колыбели</CDR_Captured.title>
                     <!-- Cradle captured -->
-<CDR_Captured.titleShort>Cradle captured</CDR_Captured.titleShort>
+<CDR_Captured.titleShort>Пленный колыбели</CDR_Captured.titleShort>
                   <!-- [PAWN_nameDef] began [PAWN_possessive] life as a Free Rakkle, but was then recovered by Cradle officers and pressed back into servitude. [PAWN_possessive] did not take well to the reconditioning, and is now withdrawn, as if merely waiting for death. -->
-<CDR_Captured.baseDesc>[PAWN_nameDef] began [PAWN_possessive] life as a Free Rakkle, but was then recovered by Cradle officers and pressed back into servitude. [PAWN_possessive] did not take well to the reconditioning, and is now withdrawn, as if merely waiting for death.</CDR_Captured.baseDesc>
+<CDR_Captured.baseDesc>[PAWN_nameDef] начал [PAWN_possessive] жизнь как свободный Раккл, но затем был возвращен офицерами Колыбели и снова обращен в рабство. [PAWN_possessive] не очень хорошо воспринял восстановление и теперь замкнут, как будто просто ждет смерти.</CDR_Captured.baseDesc>
              <!-- Cradle leader -->
-<CDR_Leader.title>Cradle leader</CDR_Leader.title>
+<CDR_Leader.title>Лидер колыбели</CDR_Leader.title>
                   <!-- Cradle leader -->
-<CDR_Leader.titleShort>Cradle leader</CDR_Leader.titleShort>
+<CDR_Leader.titleShort>Лидер колыбели</CDR_Leader.titleShort>
                 <!-- [PAWN_nameDef] is the figurehead leader of the Cradle settlement. It knows its existence is one of appearances, but the lavish circumstances of its position banishes any thoughts it may have about the morality of its existence. It need only follow the orders of the Cradle, and its survival and comfort are assured. -->
-<CDR_Leader.baseDesc>[PAWN_nameDef] is the figurehead leader of the Cradle settlement. It knows its existence is one of appearances, but the lavish circumstances of its position banishes any thoughts it may have about the morality of its existence. It need only follow the orders of the Cradle, and its survival and comfort are assured.</CDR_Leader.baseDesc>
+<CDR_Leader.baseDesc>[PAWN_nameDef] - номинальный лидер поселения Колыбель. Он знает, что его существование - лишь видимость, но роскошные обстоятельства его положения изгоняют любые мысли, которые могут возникнуть у него о нравственности его существования. Ему нужно только следовать указаниям колыбели, и его выживание и комфорт обеспечены.</CDR_Leader.baseDesc>
 
 </LanguageData>
