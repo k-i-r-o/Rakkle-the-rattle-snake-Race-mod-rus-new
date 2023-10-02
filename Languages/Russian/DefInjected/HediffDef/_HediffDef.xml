@@ -2,31 +2,31 @@
 <LanguageData>
 <!--/1.4/Defs/HediffDefs/Rakklehediff.bak-->
                      <!-- venom glands -->
-<Hediff_VenomGlands.label>venom glands</Hediff_VenomGlands.label>
+<Hediff_VenomGlands.label>ядовитые железы</Hediff_VenomGlands.label>
                          <!-- venom glands -->
-<Hediff_VenomGlands.labelNoun>venom glands</Hediff_VenomGlands.labelNoun>
+<Hediff_VenomGlands.labelNoun>ядовитые железы</Hediff_VenomGlands.labelNoun>
                            <!-- Rakkle venom glands. -->
-<Hediff_VenomGlands.description>Rakkle venom glands.</Hediff_VenomGlands.description>
+<Hediff_VenomGlands.description>Ядовитые железы Ракклов.</Hediff_VenomGlands.description>
                                                         <!-- venom fangs -->
-<Hediff_VenomGlands.comps.HediffComp_VerbGiver.tools.0.label>venom fangs</Hediff_VenomGlands.comps.HediffComp_VerbGiver.tools.0.label>
+<Hediff_VenomGlands.comps.HediffComp_VerbGiver.tools.0.label>ядовитые железы</Hediff_VenomGlands.comps.HediffComp_VerbGiver.tools.0.label>
                 <!-- bionic rakkle tail -->
-<RS_BionicTail.label>bionic rakkle tail</RS_BionicTail.label>
+<RS_BionicTail.label>бионический хвост Ракклов</RS_BionicTail.label>
                     <!-- a biobic rakkle tail -->
-<RS_BionicTail.labelNoun>a biobic rakkle tail</RS_BionicTail.labelNoun>
+<RS_BionicTail.labelNoun>бионический хвост Ракклов</RS_BionicTail.labelNoun>
                       <!-- 생체공학 뱀 꼬리로 인해 이동속도가 약간 상승합니다. -->
-<RS_BionicTail.description>생체공학 뱀 꼬리로 인해 이동속도가 약간 상승합니다.</RS_BionicTail.description>
+<RS_BionicTail.description>Бионический хвост Ракклов.</RS_BionicTail.description>
                       <!-- bionic rakkle bellysclae -->
-<RS_BionicBellyscale.label>bionic rakkle bellysclae</RS_BionicBellyscale.label>
+<RS_BionicBellyscale.label>бионическое чешуйчатое брюшко</RS_BionicBellyscale.label>
                           <!-- a biobic rakkle bellyscale -->
-<RS_BionicBellyscale.labelNoun>a biobic rakkle bellyscale</RS_BionicBellyscale.labelNoun>
+<RS_BionicBellyscale.labelNoun>бионическое чешуйчатое брюшко</RS_BionicBellyscale.labelNoun>
                             <!-- 생체공학 복판으로 인해 이동속도가 약간 상승합니다. -->
-<RS_BionicBellyscale.description>생체공학 복판으로 인해 이동속도가 약간 상승합니다.</RS_BionicBellyscale.description>
+<RS_BionicBellyscale.description>Бионическое чешуйчатое брюшко.</RS_BionicBellyscale.description>
                 <!-- wooden snake tail -->
-<RS_WoodenTail.label>wooden snake tail</RS_WoodenTail.label>
+<RS_WoodenTail.label>деревянный змеиный хвост</RS_WoodenTail.label>
                     <!-- a wooden snake hand -->
-<RS_WoodenTail.labelNoun>a wooden snake hand</RS_WoodenTail.labelNoun>
+<RS_WoodenTail.labelNoun>деревянный змеиный хвост</RS_WoodenTail.labelNoun>
                       <!-- 꼬리가 잘린 부분에 장착한 가짜 꼬리입니다. 거추장스럽지만 없는 것 보다는 낫습니다. -->
-<RS_WoodenTail.description>꼬리가 잘린 부분에 장착한 가짜 꼬리입니다. 거추장스럽지만 없는 것 보다는 낫습니다.</RS_WoodenTail.description>
+<RS_WoodenTail.description>Деревянный змеиный хвост.</RS_WoodenTail.description>
                 <!-- Rakkle Thermostat -->
 <RS_Thermostat.label>Rakkle Thermostat</RS_Thermostat.label>
                     <!-- a rakkle thermostat -->
