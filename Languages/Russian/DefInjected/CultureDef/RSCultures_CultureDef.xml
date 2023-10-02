@@ -2,9 +2,9 @@
 <LanguageData>
 <!--/1.4/Defs/RakkleLike/RSCultures.xml-->
                       <!-- Rakkle Culture Standard -->
-<RS_Culture_Standard.label>Rakkle Culture Standard</RS_Culture_Standard.label>
+<RS_Culture_Standard.label>Стандарт культуры Ракклов</RS_Culture_Standard.label>
                             <!-- The Rakkle culture. -->
-<RS_Culture_Standard.description>The Rakkle culture.</RS_Culture_Standard.description>
+<RS_Culture_Standard.description>Культура Ракклов.</RS_Culture_Standard.description>
                                  <!-- LeaderTitleMaker_Astropolitan -->
 <RS_Culture_Standard.leaderTitleMaker>LeaderTitleMaker_Astropolitan</RS_Culture_Standard.leaderTitleMaker>
 

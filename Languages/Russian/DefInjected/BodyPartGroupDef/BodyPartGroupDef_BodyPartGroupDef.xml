@@ -2,10 +2,10 @@
 <LanguageData>
 <!--/1.4/Defs/RakkleLike/body/BodyPartGroupDef.xml-->
        <!-- tail -->
-<tail.label>tail</tail.label>
+<tail.label>хвост</tail.label>
               <!-- tail -->
-<BellyScales.label>tail</BellyScales.label>
+<BellyScales.label>хвост</BellyScales.label>
               <!-- venom glands -->
-<VenomGlands.label>venom glands</VenomGlands.label>
+<VenomGlands.label>ядовитые железы</VenomGlands.label>
 
 </LanguageData>
