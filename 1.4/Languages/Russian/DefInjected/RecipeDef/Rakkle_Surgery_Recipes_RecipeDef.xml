@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RecipeDefs/Rakkle_Surgery_Recipes.xml-->
+                       <!-- install prosthetic wooden tail -->
+<RS_InstallWoodenTail.label>install prosthetic wooden tail</RS_InstallWoodenTail.label>
+                             <!-- Install a prosthetic wooden tail. -->
+<RS_InstallWoodenTail.description>Install a prosthetic wooden tail.</RS_InstallWoodenTail.description>
+                           <!-- Installing prosthetic wooden tail. -->
+<RS_InstallWoodenTail.jobString>Installing prosthetic wooden tail.</RS_InstallWoodenTail.jobString>
+                      <!-- remove prosthetic wooden tail -->
+<RS_RemoveWoodenTail.label>remove prosthetic wooden tail</RS_RemoveWoodenTail.label>
+                            <!-- Remove the prosthetic wooden tail. -->
+<RS_RemoveWoodenTail.description>Remove the prosthetic wooden tail.</RS_RemoveWoodenTail.description>
+                          <!-- Removing prosthetic wooden tail. -->
+<RS_RemoveWoodenTail.jobString>Removing prosthetic wooden tail.</RS_RemoveWoodenTail.jobString>
+                       <!-- install bionic tail -->
+<RS_InstallBionicTail.label>install bionic tail</RS_InstallBionicTail.label>
+                             <!-- Install a bionic tail. -->
+<RS_InstallBionicTail.description>Install a bionic tail.</RS_InstallBionicTail.description>
+                           <!-- Installing bionic tail. -->
+<RS_InstallBionicTail.jobString>Installing bionic tail.</RS_InstallBionicTail.jobString>
+                      <!-- remove bionic tail -->
+<RS_RemoveBionicTail.label>remove bionic tail</RS_RemoveBionicTail.label>
+                            <!-- Remove the bionic tail. -->
+<RS_RemoveBionicTail.description>Remove the bionic tail.</RS_RemoveBionicTail.description>
+                          <!-- Removing bionic tail. -->
+<RS_RemoveBionicTail.jobString>Removing bionic tail.</RS_RemoveBionicTail.jobString>
+                             <!-- install bionic belly scale -->
+<RS_InstallBionicBellyscale.label>install bionic belly scale</RS_InstallBionicBellyscale.label>
+                                   <!-- Install a bionic belly scale. -->
+<RS_InstallBionicBellyscale.description>Install a bionic belly scale.</RS_InstallBionicBellyscale.description>
+                                 <!-- Installing bionic belly scale. -->
+<RS_InstallBionicBellyscale.jobString>Installing bionic belly scale.</RS_InstallBionicBellyscale.jobString>
+                            <!-- remove bionic belly scale -->
+<RS_RemoveBionicBellyscale.label>remove bionic belly scale</RS_RemoveBionicBellyscale.label>
+                                  <!-- Remove the bionic belly scale. -->
+<RS_RemoveBionicBellyscale.description>Remove the bionic belly scale.</RS_RemoveBionicBellyscale.description>
+                                <!-- Removing bionic belly scale. -->
+<RS_RemoveBionicBellyscale.jobString>Removing bionic belly scale.</RS_RemoveBionicBellyscale.jobString>
+                             <!-- install Rakkle hyporegulator -->
+<RS_InstallRakkleThermostat.label>install Rakkle hyporegulator</RS_InstallRakkleThermostat.label>
+                                   <!-- Install a Rakkle hyporegulator. -->
+<RS_InstallRakkleThermostat.description>Install a Rakkle hyporegulator.</RS_InstallRakkleThermostat.description>
+                                 <!-- Installing Rakkle hyporegulator. -->
+<RS_InstallRakkleThermostat.jobString>Installing Rakkle hyporegulator.</RS_InstallRakkleThermostat.jobString>
+                            <!-- remove Rakkle hyporegulator -->
+<RS_RemoveRakkleThermostat.label>remove Rakkle hyporegulator</RS_RemoveRakkleThermostat.label>
+                                  <!-- Remove a Rakkle hyporegulator. -->
+<RS_RemoveRakkleThermostat.description>Remove a Rakkle hyporegulator.</RS_RemoveRakkleThermostat.description>
+                                <!-- Removing Rakkle hyporegulator. -->
+<RS_RemoveRakkleThermostat.jobString>Removing Rakkle hyporegulator.</RS_RemoveRakkleThermostat.jobString>
+                              <!-- install Rakkle obedience implant -->
+<RS_InstallObedienceTerminal.label>install Rakkle obedience implant</RS_InstallObedienceTerminal.label>
+                                    <!-- Install a Rakkle obedience implant. -->
+<RS_InstallObedienceTerminal.description>Install a Rakkle obedience implant.</RS_InstallObedienceTerminal.description>
+                                  <!-- Installing Rakkle obedience implant. -->
+<RS_InstallObedienceTerminal.jobString>Installing Rakkle obedience implant.</RS_InstallObedienceTerminal.jobString>
+                             <!-- remove Rakkle obedience implant -->
+<RS_RemoveObedienceTerminal.label>remove Rakkle obedience implant</RS_RemoveObedienceTerminal.label>
+                                   <!-- Remove a Rakkle obedience implant. -->
+<RS_RemoveObedienceTerminal.description>Remove a Rakkle obedience implant.</RS_RemoveObedienceTerminal.description>
+                                 <!-- Removing a Rakkle obedience implant. -->
+<RS_RemoveObedienceTerminal.jobString>Removing a Rakkle obedience implant.</RS_RemoveObedienceTerminal.jobString>
+
+</LanguageData>

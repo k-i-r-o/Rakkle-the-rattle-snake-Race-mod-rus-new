@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RakkleLike/body/BodyPartGroupDef.xml-->
+       <!-- tail -->
+<tail.label>хвост</tail.label>
+              <!-- tail -->
+<BellyScales.label>хвост</BellyScales.label>
+              <!-- venom glands -->
+<VenomGlands.label>ядовитые железы</VenomGlands.label>
+
+</LanguageData>

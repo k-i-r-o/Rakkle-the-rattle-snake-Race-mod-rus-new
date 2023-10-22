@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/ThingDefs/Rakkle_Meal_Thoughts.xml-->
+                         <!-- ate simple meal -->
+<AteSimpleMeal.stages.0.label>cъедено простое блюдо</AteSimpleMeal.stages.0.label>
+                               <!-- It was a simple meal. -->
+<AteSimpleMeal.stages.0.description>Это был легкий перекус.</AteSimpleMeal.stages.0.description>
+                            <!-- ate simple meal -->
+<RS_AteSimpleMeal.stages.0.label>cъдено простое блюдо</RS_AteSimpleMeal.stages.0.label>
+                                  <!-- It's... not made with vegetables, is it? -->
+<RS_AteSimpleMeal.stages.0.description>В нем.. В нем ведь нет овощей..?</RS_AteSimpleMeal.stages.0.description>
+                          <!-- ate fine meal -->
+<RS_AteFineMeal.stages.0.label>cъедено хорошее блюдо</RS_AteFineMeal.stages.0.label>
+                                <!-- Fine meal? Ugh... I think I saw a vegetable. -->
+<RS_AteFineMeal.stages.0.description>Хорошее блюдо..? Фу..! Это же овощи!</RS_AteFineMeal.stages.0.description>
+                            <!-- ate lavish meal -->
+<RS_AteLavishMeal.stages.0.label>cъедено вкусное блюдо</RS_AteLavishMeal.stages.0.label>
+                                  <!-- Lavish meal? But it has vegetables... gross. -->
+<RS_AteLavishMeal.stages.0.description>Роскошно..Но.. Кажется.. Меня тошнит..</RS_AteLavishMeal.stages.0.description>
+                               <!-- ate simple Raw Food -->
+<RS_AteSimpleRawFood.stages.0.label>cъедено сырое мясо</RS_AteSimpleRawFood.stages.0.label>
+                                     <!-- MEAT! -->
+<RS_AteSimpleRawFood.stages.0.description>МЯСО!</RS_AteSimpleRawFood.stages.0.description>
+                               <!-- ate lavish Raw Food -->
+<RS_AteLavishRawFood.stages.0.label>cъедено вкусное сырое мясо</RS_AteLavishRawFood.stages.0.label>
+                                     <!-- MEAT MEAT! MEAT MEAT! -->
+<RS_AteLavishRawFood.stages.0.description>МЯСО!МЯСО!МЯСО!МЯСО!</RS_AteLavishRawFood.stages.0.description>
+
+</LanguageData>

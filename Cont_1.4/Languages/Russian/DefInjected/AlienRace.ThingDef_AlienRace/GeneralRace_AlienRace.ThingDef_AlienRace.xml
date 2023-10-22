@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RakkleLike/GeneralRace.xml-->
+         <!-- Rakkle -->
+<Rakkle.label>Раккл</Rakkle.label>
+               <!-- Rakkles are reptilian humanoids originally found on a remote planet in the Rim. After their discovery, human colonies rounded them up and genetically altered them to have near-human intelligence, but also decreased aggression and appearances better suited to human tastes. They were also modified to give birth to females more often than males, creating a biological need for species interbreeding.
+
+The newly created Rakkle species were managed by a company known as The Cradle beyond the reaches of the galaxy, while wild Rakkle were hunted and killed to protect the company's interest. Future generations within the facilities were conditioned and raised as slaves and livestock.
+
+ After a series of escapes and revolts on planet after planet, a coalition of freed Rakkle began colonies of their own, resisting capture and invasion to create a new world where Rakkle can live outside the yoke of slavery. Despite The Cradle's best efforts, these settlements continue to grow in size and number. -->
+<Rakkle.description>Ракклы - гуманоиды-рептилии, первоначально найденные на отдаленной планете. После их обнаружения человеческие колонии собрали их и генетически изменили, чтобы они обладали интеллектом, близким к человеческому, но также уменьшили агрессивность и внешность, более соответствующую человеческим вкусам. Они также были модифицированы таким образом, чтобы рожать самок чаще, чем самцов, что создало биологическую потребность в межвидовом скрещивании. Недавно созданные виды ракклов управлялись компанией, известной как "Колыбель за пределами галактики", в то время как на диких ракклов охотились и убивали, чтобы защитить интересы компании. Будущие поколения, находившиеся на этих объектах, были подготовлены и выращены в качестве рабов и домашнего скота.\n\n После серии побегов и восстаний на планете за планетой коалиция освобожденных ракклов основала собственные колонии, сопротивляясь захвату и вторжению, чтобы создать новый мир, где Ракклы смогут жить вне ига рабства. Несмотря на все усилия Колыбели продолжают увеличиваться в размерах и количестве.</Rakkle.description>
+                                                                     <!-- skin -->
+<Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>кожа</Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+                                                                             <!-- RGBA(255, 255, 255, 255) -->
+<Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.0.second.color>RGBA(255, 255, 255, 255)</Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.0.second.color>
+                                                                     <!-- hair -->
+<Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>волосы</Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+                                                                             <!-- RGBA(255, 255, 255, 255) -->
+<Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.1.second.color>RGBA(255, 255, 255, 255)</Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.1.second.color>
+                 <!-- left fist -->
+<Rakkle.tools.0.label>левый кулак</Rakkle.tools.0.label>
+                 <!-- right fist -->
+<Rakkle.tools.1.label>правый кулак</Rakkle.tools.1.label>
+                 <!-- fangs -->
+<Rakkle.tools.2.label>клыки</Rakkle.tools.2.label>
+                 <!-- snake tail -->
+<Rakkle.tools.3.label>змееподобный хвост</Rakkle.tools.3.label>
+                 <!-- CarnivoreAnimalStrict, OvivoreAnimal -->
+<Rakkle.race.foodType>CarnivoreAnimalStrict, OvivoreAnimal</Rakkle.race.foodType>
+
+</LanguageData>

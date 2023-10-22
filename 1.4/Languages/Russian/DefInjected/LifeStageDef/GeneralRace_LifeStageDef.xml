@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RakkleLike/GeneralRace.xml-->
+                 <!-- teenager -->
+<RakkleTeenager.label>teenager</RakkleTeenager.label>
+                     <!-- teenage -->
+<RakkleTeenager.adjective>teenage</RakkleTeenager.adjective>
+              <!-- adult -->
+<RakkleAdult.label>adult</RakkleAdult.label>
+
+</LanguageData>

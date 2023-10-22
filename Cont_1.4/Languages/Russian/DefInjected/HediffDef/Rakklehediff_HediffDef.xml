@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/HediffDefs/Rakklehediff.xml-->
+                                     <!-- Immune to food poisoning. -->
+<Hediff_FoodpoisoningImmunity.description>Immune to food poisoning.</Hediff_FoodpoisoningImmunity.description>
+                               <!-- food poisoning immunity -->
+<Hediff_FoodpoisoningImmunity.label>food poisoning immunity</Hediff_FoodpoisoningImmunity.label>
+                                   <!-- food poisoning immunity -->
+<Hediff_FoodpoisoningImmunity.labelNoun>food poisoning immunity</Hediff_FoodpoisoningImmunity.labelNoun>
+                     <!-- venom glands -->
+<Hediff_VenomGlands.label>venom glands</Hediff_VenomGlands.label>
+                         <!-- venom glands -->
+<Hediff_VenomGlands.labelNoun>venom glands</Hediff_VenomGlands.labelNoun>
+                           <!-- A Rakkle's venom glands. -->
+<Hediff_VenomGlands.description>A Rakkle's venom glands.</Hediff_VenomGlands.description>
+                                                        <!-- venom fangs -->
+<Hediff_VenomGlands.comps.HediffComp_VerbGiver.tools.0.label>venom fangs</Hediff_VenomGlands.comps.HediffComp_VerbGiver.tools.0.label>
+                <!-- Rakkles periodically shed their skin as they grow. -->
+<RS_Shed.description>Rakkles periodically shed their skin as they grow.</RS_Shed.description>
+          <!-- Shedding -->
+<RS_Shed.label>Shedding</RS_Shed.label>
+              <!-- If you see this text, it's a bug. -->
+<RS_Shed.labelNoun>If you see this text, it's a bug.</RS_Shed.labelNoun>
+                          <!-- Medicine against muscle parasites and gut worms. -->
+<RS_helminthicHigh.description>Medicine against muscle parasites and gut worms.</RS_helminthicHigh.description>
+                    <!-- Parasites treatment -->
+<RS_helminthicHigh.label>Parasites treatment</RS_helminthicHigh.label>
+                        <!-- Parasites treatment -->
+<RS_helminthicHigh.labelNoun>Parasites treatment</RS_helminthicHigh.labelNoun>
+                <!-- bionic Rakkle tail -->
+<RS_BionicTail.label>bionic Rakkle tail</RS_BionicTail.label>
+                    <!-- a bionic Rakkle tail -->
+<RS_BionicTail.labelNoun>a bionic Rakkle tail</RS_BionicTail.labelNoun>
+                      <!-- An installed bionic Rakkle tail. -->
+<RS_BionicTail.description>An installed bionic Rakkle tail.</RS_BionicTail.description>
+                      <!-- bionic Rakkle belly scale -->
+<RS_BionicBellyscale.label>bionic Rakkle belly scale</RS_BionicBellyscale.label>
+                          <!-- a bionic Rakkle belly scale -->
+<RS_BionicBellyscale.labelNoun>a bionic Rakkle belly scale</RS_BionicBellyscale.labelNoun>
+                            <!-- An installed bionic Rakkle belly scale. -->
+<RS_BionicBellyscale.description>An installed bionic Rakkle belly scale.</RS_BionicBellyscale.description>
+                <!-- prosthetic wooden tail -->
+<RS_WoodenTail.label>prosthetic wooden tail</RS_WoodenTail.label>
+                    <!-- a prosthetic wooden tail -->
+<RS_WoodenTail.labelNoun>a prosthetic wooden tail</RS_WoodenTail.labelNoun>
+                      <!-- An installed prosthetic wooden tail. -->
+<RS_WoodenTail.description>An installed prosthetic wooden tail.</RS_WoodenTail.description>
+                <!-- Rakkle hyporegulator -->
+<RS_Thermostat.label>Rakkle hyporegulator</RS_Thermostat.label>
+                    <!-- a Rakkle hyporegulator -->
+<RS_Thermostat.labelNoun>a Rakkle hyporegulator</RS_Thermostat.labelNoun>
+                      <!-- An installed Rakkle hyporegulator. -->
+<RS_Thermostat.description>An installed Rakkle hyporegulator.</RS_Thermostat.description>
+                       <!-- Rakkle obedience implant -->
+<RS_ObedienceTerminal.label>Rakkle obedience implant</RS_ObedienceTerminal.label>
+                           <!-- a Rakkle obedience implant -->
+<RS_ObedienceTerminal.labelNoun>a Rakkle obedience implant</RS_ObedienceTerminal.labelNoun>
+                             <!-- An installed Rakkle obedience implant. -->
+<RS_ObedienceTerminal.description>An installed Rakkle obedience implant.</RS_ObedienceTerminal.description>
+
+</LanguageData>

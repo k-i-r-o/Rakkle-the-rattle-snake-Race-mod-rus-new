@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/Apparel/Apparel.xml-->
+                     <!-- Common Rakkle underwear. While it's an unisex product, male Rakkles are quite shy about being seen in those. -->
+<RS_ChestWrap.description>Common Rakkle underwear. While it's an unisex product, male Rakkles are quite shy about being seen in those.</RS_ChestWrap.description>
+               <!-- Rakkle Chestwrap -->
+<RS_ChestWrap.label>Rakkle Chestwrap</RS_ChestWrap.label>
+                       <!-- A knitted Rakkle sweater. It's a clothing that you wear to stay active in the cold. The size is big, so you can wear different clothes inside.
+
+Very warm, but with little protection. -->
+<RS_KnitSweater.description>A knitted Rakkle sweater. It's a clothing that you wear to stay active in the cold. The size is big, so you can wear different clothes inside.\n\nVery warm, but with little protection.</RS_KnitSweater.description>
+                 <!-- Rakkle Knit Sweater -->
+<RS_KnitSweater.label>Rakkle Knit Sweater</RS_KnitSweater.label>
+                       <!-- Rakkle idol costume. Rakkle wear them to welcome visitors. -->
+<RS_IdolCostume.description>Rakkle idol costume. Rakkle wear them to welcome visitors.</RS_IdolCostume.description>
+                 <!-- Rakkle Idol Costume -->
+<RS_IdolCostume.label>Rakkle Idol Costume</RS_IdolCostume.label>
+                    <!-- Rakkle star idol costume. These clothes are worn by the best idols in the Rim.
+
+Cannot be worn with other clothes except underwear. -->
+<RS_StarIdol.description>Rakkle star idol costume. These clothes are worn by the best idols in the Rim.\n\nCannot be worn with other clothes except underwear.</RS_StarIdol.description>
+              <!-- Rakkle Star Idol Dress -->
+<RS_StarIdol.label>Rakkle Star Idol Dress</RS_StarIdol.label>
+                       <!-- Rakkle maid dress. Originally, it was a designed by the Cradle. However, since visitors liked it free Rakkle began making their own. -->
+<RS_MaidCostume.description>Rakkle maid dress. Originally, it was a designed by the Cradle. However, since visitors liked it free Rakkle began making their own.</RS_MaidCostume.description>
+                 <!-- Rakkle Maid costume -->
+<RS_MaidCostume.label>Rakkle Maid costume</RS_MaidCostume.label>
+
+</LanguageData>

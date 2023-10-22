@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/RakkleScenario/RakkleScenarios.xml-->
+              <!-- New Rakkle Colony -->
+<RS_Scenario.label>New Rakkle Colony</RS_Scenario.label>
+                    <!-- Rakkle are a reptilian-human hybrid, genetically altered to take more human-like traits than their wild ancestors.
+
+A small band of Rakkle start a new settlement, preparing to face the harsh and unforgiving reality of life in the Rim.
+ -->
+<RS_Scenario.description>Rakkle are a reptilian-human hybrid, genetically altered to take more human-like traits than their wild ancestors.\n\nA small band of Rakkle start a new settlement, preparing to face the harsh and unforgiving reality of life in the Rim.
+</RS_Scenario.description>
+                         <!-- A small band of Rakkle start a new settlement. -->
+<RS_Scenario.scenario.summary>A small band of Rakkle start a new settlement.</RS_Scenario.scenario.summary>
+                       <!-- New Rakkle Colony -->
+<RS_Scenario.scenario.label>New Rakkle Colony</RS_Scenario.scenario.label>
+                             <!-- Rakkle are a reptilian-human hybrid, genetically altered to take more human-like traits than their wild ancestors.
+
+A small band of Rakkle start a new settlement, preparing to face the harsh and unforgiving reality of life in the Rim.
+ -->
+<RS_Scenario.scenario.description>Rakkle are a reptilian-human hybrid, genetically altered to take more human-like traits than their wild ancestors.\n\nA small band of Rakkle start a new settlement, preparing to face the harsh and unforgiving reality of life in the Rim.
+</RS_Scenario.scenario.description>
+
+</LanguageData>

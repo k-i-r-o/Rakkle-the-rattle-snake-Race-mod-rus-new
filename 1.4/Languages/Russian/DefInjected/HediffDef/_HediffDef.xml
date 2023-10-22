@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.4/Defs/HediffDefs/Rakklehediff.bak-->
+                     <!-- venom glands -->
+<Hediff_VenomGlands.label>ядовитые железы</Hediff_VenomGlands.label>
+                         <!-- venom glands -->
+<Hediff_VenomGlands.labelNoun>ядовитые железы</Hediff_VenomGlands.labelNoun>
+                           <!-- Rakkle venom glands. -->
+<Hediff_VenomGlands.description>Ядовитые железы Ракклов.</Hediff_VenomGlands.description>
+                                                        <!-- venom fangs -->
+<Hediff_VenomGlands.comps.HediffComp_VerbGiver.tools.0.label>ядовитые железы</Hediff_VenomGlands.comps.HediffComp_VerbGiver.tools.0.label>
+                <!-- bionic rakkle tail -->
+<RS_BionicTail.label>бионический хвост Ракклов</RS_BionicTail.label>
+                    <!-- a biobic rakkle tail -->
+<RS_BionicTail.labelNoun>бионический хвост Ракклов</RS_BionicTail.labelNoun>
+                      <!-- 생체공학 뱀 꼬리로 인해 이동속도가 약간 상승합니다. -->
+<RS_BionicTail.description>Бионический хвост Ракклов.</RS_BionicTail.description>
+                      <!-- bionic rakkle bellysclae -->
+<RS_BionicBellyscale.label>бионическое чешуйчатое брюшко</RS_BionicBellyscale.label>
+                          <!-- a biobic rakkle bellyscale -->
+<RS_BionicBellyscale.labelNoun>бионическое чешуйчатое брюшко</RS_BionicBellyscale.labelNoun>
+                            <!-- 생체공학 복판으로 인해 이동속도가 약간 상승합니다. -->
+<RS_BionicBellyscale.description>Бионическое чешуйчатое брюшко.</RS_BionicBellyscale.description>
+                <!-- wooden snake tail -->
+<RS_WoodenTail.label>деревянный змеиный хвост</RS_WoodenTail.label>
+                    <!-- a wooden snake hand -->
+<RS_WoodenTail.labelNoun>деревянный змеиный хвост</RS_WoodenTail.labelNoun>
+                      <!-- 꼬리가 잘린 부분에 장착한 가짜 꼬리입니다. 거추장스럽지만 없는 것 보다는 낫습니다. -->
+<RS_WoodenTail.description>Деревянный змеиный хвост.</RS_WoodenTail.description>
+                <!-- Rakkle Thermostat -->
+<RS_Thermostat.label>Rakkle Thermostat</RS_Thermostat.label>
+                    <!-- a rakkle thermostat -->
+<RS_Thermostat.labelNoun>a rakkle thermostat</RS_Thermostat.labelNoun>
+                      <!-- rakkle thermostatic terminal. A panel attached to the body detects the surrounding environment and regulates the body temperature. -->
+<RS_Thermostat.description>rakkle thermostatic terminal. A panel attached to the body detects the surrounding environment and regulates the body temperature.</RS_Thermostat.description>
+                       <!-- Rakkle obedience terminal -->
+<RS_ObedienceTerminal.label>Rakkle obedience terminal</RS_ObedienceTerminal.label>
+                           <!-- a rakkle obedience terminal -->
+<RS_ObedienceTerminal.labelNoun>a rakkle obedience terminal</RS_ObedienceTerminal.labelNoun>
+                             <!-- forced obedience terminal for the slave rakkle of the cradle. As soon as you defy your master, you burn the nervous system with electric current. It also includes body metabolism, so you can move faster, but it's less durable. -->
+<RS_ObedienceTerminal.description>forced obedience terminal for the slave rakkle of the cradle. As soon as you defy your master, you burn the nervous system with electric current. It also includes body metabolism, so you can move faster, but it's less durable.</RS_ObedienceTerminal.description>
+
+</LanguageData>
